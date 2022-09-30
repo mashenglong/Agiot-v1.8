@@ -1,0 +1,396 @@
+2022-03-02 12:23:51,375 - SerialPort COM5 is opening
+
+2022-03-02 12:23:51,385 - SerialPort COM1 is opening
+
+2022-03-02 12:23:51,385 - lora GateWay send request frame to LoRa end-device，start
+2022-03-02 12:24:01,385 - lora GateWay send request frame to LoRa end-device，over
+2022-03-02 12:24:01,385 - lora GateWay send request frame to LoRa end-device，start
+2022-03-02 12:24:11,385 - lora GateWay send request frame to LoRa end-device，over
+2022-03-02 12:24:11,385 - lora GateWay send request frame to LoRa end-device，start
+2022-03-02 12:24:12,853 - commPort：ELTIMA_Virtual_Serial_Port_00,SystemPortName:COM1
+2022-03-02 12:24:13,061 - commPort：ELTIMA_Virtual_Serial_Port_01,SystemPortName:COM2
+2022-03-02 12:24:13,262 - commPort：ELTIMA_Virtual_Serial_Port_02,SystemPortName:COM5
+2022-03-02 12:24:13,463 - commPort：ELTIMA_Virtual_Serial_Port_03,SystemPortName:COM6
+2022-03-02 12:24:18,932 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:24:18,935 - Get the data of the lora end-device and start parsing
+2022-03-02 12:24:18,936 - Get the data of the zigbee end-device and start parsing
+2022-03-02 12:24:18,937 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:24:18,937 - iHum:146
+2022-03-02 12:24:18,937 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-03-02 12:24:18,939 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-03-02 12:24:18,939 - lora_sensor date:[sensor: 1, date:2022-03-02 12:24:18, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:18,939 - zigbee_toString: [sensor: 101, date:2022-03-02 12:24:18, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:19,019 - MLog clients using slf4j logging.
+2022-03-02 12:24:19,456 - Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2022-03-02 12:24:19,580 - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1hgemf5ank7w8eq1the77i|5d81831f, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> 1hgemf5ank7w8eq1the77i|5d81831f, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1:3306/agiot?serverTimezone=UTC, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 30, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 200, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+2022-03-02 12:24:20,400 - MySQLEventHandler onEvent: [sensor: 1, date:2022-03-02 12:24:18, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:20,400 - MySQLEventHandler onEvent: [sensor: 101, date:2022-03-02 12:24:18, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:20,405 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@3d33ee5
+2022-03-02 12:24:20,405 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@18b086dd
+2022-03-02 12:24:20,530 - MqttConnectionPool Thread:23获取连接:1条
+2022-03-02 12:24:20,530 - MqttConnectionPool Thread:22获取连接:1条
+2022-03-02 12:24:20,629 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 50, 52, 58, 49, 56, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-03-02 12:24:20,629 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 50, 52, 58, 49, 56, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2022-03-02 12:24:20,629 - MQTTEventHandler MQTT:[sensor: 1, date:2022-03-02 12:24:18, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:20,629 - MQTTEventHandler MQTT:[sensor: 101, date:2022-03-02 12:24:18, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:20,667 - PushCallback deliveryComplete: true
+2022-03-02 12:24:20,668 - PushCallback deliveryComplete: true
+2022-03-02 12:24:21,387 - lora GateWay send request frame to LoRa end-device，over
+2022-03-02 12:24:21,387 - lora GateWay send request frame to LoRa end-device，start
+2022-03-02 12:24:24,133 - Get the data of the zigbee end-device and start parsing
+2022-03-02 12:24:24,134 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:24:24,135 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-03-02 12:24:24,135 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-03-02 12:24:24,135 - Get the data of the lora end-device and start parsing
+2022-03-02 12:24:24,135 - zigbee_toString: [sensor: 101, date:2022-03-02 12:24:24, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:24,137 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:24:24,137 - iHum:146
+2022-03-02 12:24:24,137 - lora_sensor date:[sensor: 1, date:2022-03-02 12:24:24, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:24,159 - MySQLEventHandler onEvent: [sensor: 101, date:2022-03-02 12:24:24, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:24,160 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@1b9a0bfe
+2022-03-02 12:24:24,176 - MySQLEventHandler onEvent: [sensor: 1, date:2022-03-02 12:24:24, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:24,178 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@2b162242
+2022-03-02 12:24:24,300 - MqttConnectionPool Thread:25获取连接:1条
+2022-03-02 12:24:24,302 - MqttConnectionPool Thread:24获取连接:1条
+2022-03-02 12:24:24,302 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 50, 52, 58, 50, 52, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-03-02 12:24:24,302 - MQTTEventHandler MQTT:[sensor: 1, date:2022-03-02 12:24:24, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:24,303 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 50, 52, 58, 50, 52, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2022-03-02 12:24:24,304 - MQTTEventHandler MQTT:[sensor: 101, date:2022-03-02 12:24:24, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:24,337 - PushCallback deliveryComplete: true
+2022-03-02 12:24:24,344 - PushCallback deliveryComplete: true
+2022-03-02 12:24:29,333 - Get the data of the zigbee end-device and start parsing
+2022-03-02 12:24:29,335 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:24:29,335 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-03-02 12:24:29,335 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-03-02 12:24:29,335 - zigbee_toString: [sensor: 101, date:2022-03-02 12:24:29, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:29,337 - Get the data of the lora end-device and start parsing
+2022-03-02 12:24:29,338 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:24:29,338 - iHum:146
+2022-03-02 12:24:29,338 - lora_sensor date:[sensor: 1, date:2022-03-02 12:24:29, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:29,450 - MySQLEventHandler onEvent: [sensor: 101, date:2022-03-02 12:24:29, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:29,452 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@3df42d0a
+2022-03-02 12:24:29,468 - MySQLEventHandler onEvent: [sensor: 1, date:2022-03-02 12:24:29, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:29,469 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@5326759f
+2022-03-02 12:24:29,525 - MqttConnectionPool Thread:26获取连接:1条
+2022-03-02 12:24:29,526 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 50, 52, 58, 50, 57, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2022-03-02 12:24:29,526 - MQTTEventHandler MQTT:[sensor: 101, date:2022-03-02 12:24:29, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:29,561 - PushCallback deliveryComplete: true
+2022-03-02 12:24:29,574 - MqttConnectionPool Thread:27获取连接:1条
+2022-03-02 12:24:29,575 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 50, 52, 58, 50, 57, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-03-02 12:24:29,575 - MQTTEventHandler MQTT:[sensor: 1, date:2022-03-02 12:24:29, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:29,614 - PushCallback deliveryComplete: true
+2022-03-02 12:24:31,387 - lora GateWay send request frame to LoRa end-device，over
+2022-03-02 12:24:31,387 - lora GateWay send request frame to LoRa end-device，start
+2022-03-02 12:24:34,535 - Get the data of the zigbee end-device and start parsing
+2022-03-02 12:24:34,536 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:24:34,537 - Get the data of the lora end-device and start parsing
+2022-03-02 12:24:34,537 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-03-02 12:24:34,537 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-03-02 12:24:34,537 - zigbee_toString: [sensor: 101, date:2022-03-02 12:24:34, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:34,539 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:24:34,539 - iHum:146
+2022-03-02 12:24:34,540 - lora_sensor date:[sensor: 1, date:2022-03-02 12:24:34, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:34,651 - MySQLEventHandler onEvent: [sensor: 101, date:2022-03-02 12:24:34, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:34,652 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@4f153136
+2022-03-02 12:24:34,673 - MySQLEventHandler onEvent: [sensor: 1, date:2022-03-02 12:24:34, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:34,674 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@70ee67c3
+2022-03-02 12:24:34,743 - MqttConnectionPool Thread:28获取连接:1条
+2022-03-02 12:24:34,744 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 50, 52, 58, 51, 52, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2022-03-02 12:24:34,744 - MQTTEventHandler MQTT:[sensor: 101, date:2022-03-02 12:24:34, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:34,777 - MqttConnectionPool Thread:29获取连接:1条
+2022-03-02 12:24:34,778 - PushCallback deliveryComplete: true
+2022-03-02 12:24:34,779 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 50, 52, 58, 51, 52, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-03-02 12:24:34,779 - MQTTEventHandler MQTT:[sensor: 1, date:2022-03-02 12:24:34, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:34,814 - PushCallback deliveryComplete: true
+2022-03-02 12:24:39,736 - Get the data of the zigbee end-device and start parsing
+2022-03-02 12:24:39,737 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-03-02 12:24:39,737 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-03-02 12:24:39,738 - zigbee_toString: [sensor: 101, date:2022-03-02 12:24:39, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:39,738 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:24:39,739 - Get the data of the lora end-device and start parsing
+2022-03-02 12:24:39,740 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:24:39,740 - iHum:146
+2022-03-02 12:24:39,740 - lora_sensor date:[sensor: 1, date:2022-03-02 12:24:39, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:39,851 - MySQLEventHandler onEvent: [sensor: 101, date:2022-03-02 12:24:39, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:39,852 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@6bc50236
+2022-03-02 12:24:39,867 - MySQLEventHandler onEvent: [sensor: 1, date:2022-03-02 12:24:39, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:39,868 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@489444de
+2022-03-02 12:24:39,969 - MqttConnectionPool Thread:30获取连接:1条
+2022-03-02 12:24:39,970 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 50, 52, 58, 51, 57, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2022-03-02 12:24:39,970 - MQTTEventHandler MQTT:[sensor: 101, date:2022-03-02 12:24:39, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:40,115 - PushCallback deliveryComplete: true
+2022-03-02 12:24:40,134 - MqttConnectionPool Thread:31获取连接:1条
+2022-03-02 12:24:40,135 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 50, 52, 58, 51, 57, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-03-02 12:24:40,135 - MQTTEventHandler MQTT:[sensor: 1, date:2022-03-02 12:24:39, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:40,253 - PushCallback deliveryComplete: true
+2022-03-02 12:24:41,388 - lora GateWay send request frame to LoRa end-device，over
+2022-03-02 12:24:41,388 - lora GateWay send request frame to LoRa end-device，start
+2022-03-02 12:24:44,938 - Get the data of the zigbee end-device and start parsing
+2022-03-02 12:24:44,939 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:24:44,940 - Get the data of the lora end-device and start parsing
+2022-03-02 12:24:44,940 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-03-02 12:24:44,940 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-03-02 12:24:44,940 - zigbee_toString: [sensor: 101, date:2022-03-02 12:24:44, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:44,941 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:24:44,942 - iHum:146
+2022-03-02 12:24:44,945 - lora_sensor date:[sensor: 1, date:2022-03-02 12:24:44, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:45,050 - MySQLEventHandler onEvent: [sensor: 101, date:2022-03-02 12:24:44, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:45,051 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 50, 52, 58, 52, 52, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2022-03-02 12:24:45,051 - MQTTEventHandler MQTT:[sensor: 101, date:2022-03-02 12:24:44, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:45,067 - MySQLEventHandler onEvent: [sensor: 1, date:2022-03-02 12:24:44, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:45,068 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 50, 52, 58, 52, 52, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-03-02 12:24:45,068 - MQTTEventHandler MQTT:[sensor: 1, date:2022-03-02 12:24:44, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:45,090 - PushCallback deliveryComplete: true
+2022-03-02 12:24:45,102 - PushCallback deliveryComplete: true
+2022-03-02 12:24:50,138 - Get the data of the zigbee end-device and start parsing
+2022-03-02 12:24:50,139 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:24:50,139 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-03-02 12:24:50,139 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-03-02 12:24:50,140 - zigbee_toString: [sensor: 101, date:2022-03-02 12:24:50, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:50,142 - Get the data of the lora end-device and start parsing
+2022-03-02 12:24:50,143 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:24:50,143 - iHum:146
+2022-03-02 12:24:50,143 - lora_sensor date:[sensor: 1, date:2022-03-02 12:24:50, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:50,254 - MySQLEventHandler onEvent: [sensor: 101, date:2022-03-02 12:24:50, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:50,255 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 50, 52, 58, 53, 48, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2022-03-02 12:24:50,255 - MQTTEventHandler MQTT:[sensor: 101, date:2022-03-02 12:24:50, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:50,272 - MySQLEventHandler onEvent: [sensor: 1, date:2022-03-02 12:24:50, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:50,272 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 50, 52, 58, 53, 48, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-03-02 12:24:50,272 - MQTTEventHandler MQTT:[sensor: 1, date:2022-03-02 12:24:50, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:50,290 - PushCallback deliveryComplete: true
+2022-03-02 12:24:50,313 - PushCallback deliveryComplete: true
+2022-03-02 12:24:51,388 - lora GateWay send request frame to LoRa end-device，over
+2022-03-02 12:24:51,388 - lora GateWay send request frame to LoRa end-device，start
+2022-03-02 12:24:55,338 - Get the data of the zigbee end-device and start parsing
+2022-03-02 12:24:55,339 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-03-02 12:24:55,339 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-03-02 12:24:55,340 - zigbee_toString: [sensor: 101, date:2022-03-02 12:24:55, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:55,340 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:24:55,342 - Get the data of the lora end-device and start parsing
+2022-03-02 12:24:55,344 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:24:55,345 - iHum:146
+2022-03-02 12:24:55,345 - lora_sensor date:[sensor: 1, date:2022-03-02 12:24:55, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:55,449 - MySQLEventHandler onEvent: [sensor: 101, date:2022-03-02 12:24:55, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:55,449 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 50, 52, 58, 53, 53, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2022-03-02 12:24:55,449 - MQTTEventHandler MQTT:[sensor: 101, date:2022-03-02 12:24:55, temperature:11.0, humidity: 11.0]
+2022-03-02 12:24:55,466 - MySQLEventHandler onEvent: [sensor: 1, date:2022-03-02 12:24:55, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:55,466 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 50, 52, 58, 53, 53, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-03-02 12:24:55,470 - MQTTEventHandler MQTT:[sensor: 1, date:2022-03-02 12:24:55, temperature:0.1, humidity: 65.8]
+2022-03-02 12:24:55,483 - PushCallback deliveryComplete: true
+2022-03-02 12:24:55,506 - PushCallback deliveryComplete: true
+2022-03-02 12:32:22,184 - SerialPort COM5 is opening
+
+2022-03-02 12:32:22,192 - SerialPort COM1 is opening
+
+2022-03-02 12:32:22,192 - lora GateWay send request frame to LoRa end-device，start
+2022-03-02 12:32:32,193 - lora GateWay send request frame to LoRa end-device，over
+2022-03-02 12:32:32,193 - lora GateWay send request frame to LoRa end-device，start
+2022-03-02 12:32:42,193 - lora GateWay send request frame to LoRa end-device，over
+2022-03-02 12:32:42,193 - lora GateWay send request frame to LoRa end-device，start
+2022-03-02 12:32:51,195 - commPort：ELTIMA_Virtual_Serial_Port_00,SystemPortName:COM1
+2022-03-02 12:32:51,405 - commPort：ELTIMA_Virtual_Serial_Port_01,SystemPortName:COM2
+2022-03-02 12:32:51,607 - commPort：ELTIMA_Virtual_Serial_Port_02,SystemPortName:COM5
+2022-03-02 12:32:51,807 - commPort：ELTIMA_Virtual_Serial_Port_03,SystemPortName:COM6
+2022-03-02 12:32:52,193 - lora GateWay send request frame to LoRa end-device，over
+2022-03-02 12:32:52,193 - lora GateWay send request frame to LoRa end-device，start
+2022-03-02 12:32:57,262 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:32:57,264 - Get the data of the lora end-device and start parsing
+2022-03-02 12:32:57,264 - Get the data of the zigbee end-device and start parsing
+2022-03-02 12:32:57,267 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:32:57,268 - iHum:146
+2022-03-02 12:32:57,268 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-03-02 12:32:57,270 - lora_sensor date:[sensor: 1, date:2022-03-02 12:32:57, temperature:0.1, humidity: 65.8]
+2022-03-02 12:32:57,270 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-03-02 12:32:57,270 - zigbee_toString: [sensor: 101, date:2022-03-02 12:32:57, temperature:11.0, humidity: 11.0]
+2022-03-02 12:32:57,372 - MLog clients using slf4j logging.
+2022-03-02 12:32:57,799 - Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2022-03-02 12:32:57,906 - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1hgemf5ank87cdu1qaqc00|6aafc8bc, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> 1hgemf5ank87cdu1qaqc00|6aafc8bc, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1:3306/agiot?serverTimezone=UTC, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 30, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 200, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+2022-03-02 12:32:58,318 - MySQLEventHandler onEvent: [sensor: 1, date:2022-03-02 12:32:57, temperature:0.1, humidity: 65.8]
+2022-03-02 12:32:58,322 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@3d33ee5
+2022-03-02 12:32:58,344 - MySQLEventHandler onEvent: [sensor: 101, date:2022-03-02 12:32:57, temperature:11.0, humidity: 11.0]
+2022-03-02 12:32:58,346 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@68816813
+2022-03-02 12:32:58,621 - MqttConnectionPool Thread:23获取连接:1条
+2022-03-02 12:32:58,621 - MqttConnectionPool Thread:22获取连接:1条
+2022-03-02 12:32:58,710 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 51, 50, 58, 53, 55, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2022-03-02 12:32:58,710 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 51, 50, 58, 53, 55, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-03-02 12:32:58,711 - MQTTEventHandler MQTT:[sensor: 1, date:2022-03-02 12:32:57, temperature:0.1, humidity: 65.8]
+2022-03-02 12:32:58,711 - MQTTEventHandler MQTT:[sensor: 101, date:2022-03-02 12:32:57, temperature:11.0, humidity: 11.0]
+2022-03-02 12:32:58,748 - PushCallback deliveryComplete: true
+2022-03-02 12:32:58,761 - PushCallback deliveryComplete: true
+2022-03-02 12:33:02,194 - lora GateWay send request frame to LoRa end-device，over
+2022-03-02 12:33:02,194 - lora GateWay send request frame to LoRa end-device，start
+2022-03-02 12:33:02,489 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:33:02,489 - Get the data of the zigbee end-device and start parsing
+2022-03-02 12:33:02,491 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-03-02 12:33:02,491 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-03-02 12:33:02,491 - Get the data of the lora end-device and start parsing
+2022-03-02 12:33:02,491 - zigbee_toString: [sensor: 101, date:2022-03-02 12:33:02, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:02,491 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:33:02,492 - iHum:146
+2022-03-02 12:33:02,492 - lora_sensor date:[sensor: 1, date:2022-03-02 12:33:02, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:02,532 - MySQLEventHandler onEvent: [sensor: 101, date:2022-03-02 12:33:02, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:02,536 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@78b6973f
+2022-03-02 12:33:02,550 - MySQLEventHandler onEvent: [sensor: 1, date:2022-03-02 12:33:02, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:02,551 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@3827ab66
+2022-03-02 12:33:02,615 - MqttConnectionPool Thread:24获取连接:1条
+2022-03-02 12:33:02,616 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 51, 51, 58, 48, 50, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2022-03-02 12:33:02,616 - MQTTEventHandler MQTT:[sensor: 101, date:2022-03-02 12:33:02, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:02,639 - MqttConnectionPool Thread:25获取连接:1条
+2022-03-02 12:33:02,640 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 51, 51, 58, 48, 50, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-03-02 12:33:02,641 - MQTTEventHandler MQTT:[sensor: 1, date:2022-03-02 12:33:02, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:02,654 - PushCallback deliveryComplete: true
+2022-03-02 12:33:02,682 - PushCallback deliveryComplete: true
+2022-03-02 12:33:07,690 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:33:07,692 - Get the data of the lora end-device and start parsing
+2022-03-02 12:33:07,692 - Get the data of the zigbee end-device and start parsing
+2022-03-02 12:33:07,693 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:33:07,693 - iHum:146
+2022-03-02 12:33:07,693 - lora_sensor date:[sensor: 1, date:2022-03-02 12:33:07, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:07,694 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-03-02 12:33:07,694 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-03-02 12:33:07,695 - zigbee_toString: [sensor: 101, date:2022-03-02 12:33:07, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:07,721 - MySQLEventHandler onEvent: [sensor: 1, date:2022-03-02 12:33:07, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:07,722 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@3df42d0a
+2022-03-02 12:33:07,737 - MySQLEventHandler onEvent: [sensor: 101, date:2022-03-02 12:33:07, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:07,738 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@5326759f
+2022-03-02 12:33:07,809 - MqttConnectionPool Thread:26获取连接:1条
+2022-03-02 12:33:07,810 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 51, 51, 58, 48, 55, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-03-02 12:33:07,810 - MQTTEventHandler MQTT:[sensor: 1, date:2022-03-02 12:33:07, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:07,815 - MqttConnectionPool Thread:27获取连接:1条
+2022-03-02 12:33:07,816 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 51, 51, 58, 48, 55, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2022-03-02 12:33:07,816 - MQTTEventHandler MQTT:[sensor: 101, date:2022-03-02 12:33:07, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:07,851 - PushCallback deliveryComplete: true
+2022-03-02 12:33:07,852 - PushCallback deliveryComplete: true
+2022-03-02 12:33:12,195 - lora GateWay send request frame to LoRa end-device，over
+2022-03-02 12:33:12,195 - lora GateWay send request frame to LoRa end-device，start
+2022-03-02 12:33:12,891 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:33:12,892 - Get the data of the zigbee end-device and start parsing
+2022-03-02 12:33:12,893 - Get the data of the lora end-device and start parsing
+2022-03-02 12:33:12,893 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-03-02 12:33:12,893 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-03-02 12:33:12,893 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:33:12,894 - iHum:146
+2022-03-02 12:33:12,894 - zigbee_toString: [sensor: 101, date:2022-03-02 12:33:12, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:12,894 - lora_sensor date:[sensor: 1, date:2022-03-02 12:33:12, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:12,915 - MySQLEventHandler onEvent: [sensor: 101, date:2022-03-02 12:33:12, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:12,917 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@70ee67c3
+2022-03-02 12:33:12,931 - MySQLEventHandler onEvent: [sensor: 1, date:2022-03-02 12:33:12, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:12,933 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@6bc50236
+2022-03-02 12:33:13,112 - MqttConnectionPool Thread:28获取连接:1条
+2022-03-02 12:33:13,119 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 51, 51, 58, 49, 50, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2022-03-02 12:33:13,119 - MQTTEventHandler MQTT:[sensor: 101, date:2022-03-02 12:33:12, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:13,130 - MqttConnectionPool Thread:29获取连接:1条
+2022-03-02 12:33:13,131 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 51, 51, 58, 49, 50, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-03-02 12:33:13,131 - MQTTEventHandler MQTT:[sensor: 1, date:2022-03-02 12:33:12, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:13,178 - PushCallback deliveryComplete: true
+2022-03-02 12:33:13,183 - PushCallback deliveryComplete: true
+2022-03-02 12:33:18,091 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:33:18,092 - Get the data of the lora end-device and start parsing
+2022-03-02 12:33:18,093 - Get the data of the zigbee end-device and start parsing
+2022-03-02 12:33:18,093 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:33:18,093 - iHum:146
+2022-03-02 12:33:18,094 - lora_sensor date:[sensor: 1, date:2022-03-02 12:33:18, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:18,099 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-03-02 12:33:18,099 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-03-02 12:33:18,102 - zigbee_toString: [sensor: 101, date:2022-03-02 12:33:18, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:18,113 - MySQLEventHandler onEvent: [sensor: 1, date:2022-03-02 12:33:18, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:18,121 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@489444de
+2022-03-02 12:33:18,153 - MySQLEventHandler onEvent: [sensor: 101, date:2022-03-02 12:33:18, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:18,154 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@2186f1b6
+2022-03-02 12:33:18,215 - MqttConnectionPool Thread:30获取连接:1条
+2022-03-02 12:33:18,216 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 51, 51, 58, 49, 56, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-03-02 12:33:18,217 - MQTTEventHandler MQTT:[sensor: 1, date:2022-03-02 12:33:18, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:18,240 - MqttConnectionPool Thread:31获取连接:1条
+2022-03-02 12:33:18,243 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 51, 51, 58, 49, 56, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2022-03-02 12:33:18,243 - MQTTEventHandler MQTT:[sensor: 101, date:2022-03-02 12:33:18, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:18,253 - PushCallback deliveryComplete: true
+2022-03-02 12:33:18,282 - PushCallback deliveryComplete: true
+2022-03-02 12:33:22,195 - lora GateWay send request frame to LoRa end-device，over
+2022-03-02 12:33:22,195 - lora GateWay send request frame to LoRa end-device，start
+2022-03-02 12:33:23,292 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:33:23,293 - Get the data of the lora end-device and start parsing
+2022-03-02 12:33:23,293 - Get the data of the zigbee end-device and start parsing
+2022-03-02 12:33:23,294 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:33:23,294 - iHum:146
+2022-03-02 12:33:23,294 - lora_sensor date:[sensor: 1, date:2022-03-02 12:33:23, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:23,295 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-03-02 12:33:23,295 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-03-02 12:33:23,295 - zigbee_toString: [sensor: 101, date:2022-03-02 12:33:23, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:23,318 - MySQLEventHandler onEvent: [sensor: 1, date:2022-03-02 12:33:23, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:23,320 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 51, 51, 58, 50, 51, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-03-02 12:33:23,322 - MQTTEventHandler MQTT:[sensor: 1, date:2022-03-02 12:33:23, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:23,335 - MySQLEventHandler onEvent: [sensor: 101, date:2022-03-02 12:33:23, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:23,335 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 51, 51, 58, 50, 51, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2022-03-02 12:33:23,335 - MQTTEventHandler MQTT:[sensor: 101, date:2022-03-02 12:33:23, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:23,365 - PushCallback deliveryComplete: true
+2022-03-02 12:33:23,380 - PushCallback deliveryComplete: true
+2022-03-02 12:33:28,493 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:33:28,495 - Get the data of the lora end-device and start parsing
+2022-03-02 12:33:28,495 - Get the data of the zigbee end-device and start parsing
+2022-03-02 12:33:28,496 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:33:28,496 - iHum:146
+2022-03-02 12:33:28,496 - lora_sensor date:[sensor: 1, date:2022-03-02 12:33:28, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:28,496 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-03-02 12:33:28,497 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-03-02 12:33:28,497 - zigbee_toString: [sensor: 101, date:2022-03-02 12:33:28, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:28,518 - MySQLEventHandler onEvent: [sensor: 1, date:2022-03-02 12:33:28, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:28,521 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 51, 51, 58, 50, 56, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-03-02 12:33:28,522 - MQTTEventHandler MQTT:[sensor: 1, date:2022-03-02 12:33:28, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:28,535 - MySQLEventHandler onEvent: [sensor: 101, date:2022-03-02 12:33:28, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:28,535 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 51, 51, 58, 50, 56, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2022-03-02 12:33:28,535 - MQTTEventHandler MQTT:[sensor: 101, date:2022-03-02 12:33:28, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:28,555 - PushCallback deliveryComplete: true
+2022-03-02 12:33:28,575 - PushCallback deliveryComplete: true
+2022-03-02 12:33:32,196 - lora GateWay send request frame to LoRa end-device，over
+2022-03-02 12:33:32,196 - lora GateWay send request frame to LoRa end-device，start
+2022-03-02 12:33:33,693 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:33:33,695 - Get the data of the lora end-device and start parsing
+2022-03-02 12:33:33,695 - Get the data of the zigbee end-device and start parsing
+2022-03-02 12:33:33,696 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:33:33,696 - iHum:146
+2022-03-02 12:33:33,696 - lora_sensor date:[sensor: 1, date:2022-03-02 12:33:33, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:33,696 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-03-02 12:33:33,697 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-03-02 12:33:33,697 - zigbee_toString: [sensor: 101, date:2022-03-02 12:33:33, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:33,815 - MySQLEventHandler onEvent: [sensor: 1, date:2022-03-02 12:33:33, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:33,816 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 51, 51, 58, 51, 51, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-03-02 12:33:33,816 - MQTTEventHandler MQTT:[sensor: 1, date:2022-03-02 12:33:33, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:33,832 - MySQLEventHandler onEvent: [sensor: 101, date:2022-03-02 12:33:33, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:33,835 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 51, 51, 58, 51, 51, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2022-03-02 12:33:33,835 - MQTTEventHandler MQTT:[sensor: 101, date:2022-03-02 12:33:33, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:33,856 - PushCallback deliveryComplete: true
+2022-03-02 12:33:33,870 - PushCallback deliveryComplete: true
+2022-03-02 12:33:38,895 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:33:38,896 - Get the data of the lora end-device and start parsing
+2022-03-02 12:33:38,896 - Get the data of the zigbee end-device and start parsing
+2022-03-02 12:33:38,897 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-03-02 12:33:38,897 - iHum:146
+2022-03-02 12:33:38,897 - lora_sensor date:[sensor: 1, date:2022-03-02 12:33:38, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:38,898 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-03-02 12:33:38,898 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-03-02 12:33:38,898 - zigbee_toString: [sensor: 101, date:2022-03-02 12:33:38, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:39,015 - MySQLEventHandler onEvent: [sensor: 1, date:2022-03-02 12:33:38, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:39,015 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 51, 51, 58, 51, 56, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-03-02 12:33:39,015 - MQTTEventHandler MQTT:[sensor: 1, date:2022-03-02 12:33:38, temperature:0.1, humidity: 65.8]
+2022-03-02 12:33:39,031 - MySQLEventHandler onEvent: [sensor: 101, date:2022-03-02 12:33:38, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:39,032 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 51, 45, 48, 50, 32, 49, 50, 58, 51, 51, 58, 51, 56, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2022-03-02 12:33:39,032 - MQTTEventHandler MQTT:[sensor: 101, date:2022-03-02 12:33:38, temperature:11.0, humidity: 11.0]
+2022-03-02 12:33:39,049 - PushCallback deliveryComplete: true
+2022-03-02 12:33:39,070 - PushCallback deliveryComplete: true

@@ -1,0 +1,2033 @@
+2022-09-15 09:46:27,768 - commPort：ELTIMA_Virtual_Serial_Port_00,SystemPortName:COM1
+2022-09-15 09:46:27,987 - commPort：ELTIMA_Virtual_Serial_Port_01,SystemPortName:COM2
+2022-09-15 09:46:33,446 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:46:38,648 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:46:43,848 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:46:49,049 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:46:54,250 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:46:59,451 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:47:04,652 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:47:09,853 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:47:15,054 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:47:20,255 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:47:25,455 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:47:30,656 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:47:35,856 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:47:41,056 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:47:46,257 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:47:51,457 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:47:56,658 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:48:01,859 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:48:07,060 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:48:12,261 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:48:17,462 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:48:22,663 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:48:27,864 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:48:33,065 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:48:38,265 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:48:43,466 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:48:48,666 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:48:53,867 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:48:59,067 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:49:04,268 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:49:09,469 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:49:45,584 - commPort：ELTIMA_Virtual_Serial_Port_00,SystemPortName:COM1
+2022-09-15 09:49:45,791 - commPort：ELTIMA_Virtual_Serial_Port_01,SystemPortName:COM2
+2022-09-15 09:49:45,992 - commPort：ELTIMA_Virtual_Serial_Port_02,SystemPortName:COM5
+2022-09-15 09:49:46,192 - commPort：ELTIMA_Virtual_Serial_Port_03,SystemPortName:COM6
+2022-09-15 09:49:51,651 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:49:56,853 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:50:02,054 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:50:07,262 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:50:15,178 - SerialPort COM5 is opening
+
+2022-09-15 09:50:15,186 - SerialPort COM1 is opening
+
+2022-09-15 09:50:15,186 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:50:20,529 - commPort：ELTIMA_Virtual_Serial_Port_00,SystemPortName:COM1
+2022-09-15 09:50:20,734 - commPort：ELTIMA_Virtual_Serial_Port_01,SystemPortName:COM2
+2022-09-15 09:50:20,938 - commPort：ELTIMA_Virtual_Serial_Port_02,SystemPortName:COM5
+2022-09-15 09:50:21,138 - commPort：ELTIMA_Virtual_Serial_Port_03,SystemPortName:COM6
+2022-09-15 09:50:25,187 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 09:50:25,187 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:50:26,596 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:50:26,600 - Get the data of the lora end-device and start parsing
+2022-09-15 09:50:26,601 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:50:26,604 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:50:26,605 - iHum:146
+2022-09-15 09:50:26,605 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:50:26,607 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:50:26,608 - lora_sensor date:[sensor: 1, date:2022-09-15 09:50:26, temperature:0.1, humidity: 65.8]
+2022-09-15 09:50:26,609 - zigbee_toString: [sensor: 101, date:2022-09-15 09:50:26, temperature:11.0, humidity: 11.0]
+2022-09-15 09:50:26,692 - MLog clients using slf4j logging.
+2022-09-15 09:50:27,055 - Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2022-09-15 09:50:27,169 - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1hgemf5arhfoy4l1yertjn|155ffb1c, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> 1hgemf5arhfoy4l1yertjn|155ffb1c, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1:3306/agiot?serverTimezone=UTC, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 30, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 200, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+2022-09-15 09:50:27,659 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:50:26, temperature:11.0, humidity: 11.0]
+2022-09-15 09:50:27,659 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:50:26, temperature:0.1, humidity: 65.8]
+2022-09-15 09:50:27,663 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@68816813
+2022-09-15 09:50:27,663 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@571900dc
+2022-09-15 09:50:31,799 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:50:31,801 - Get the data of the lora end-device and start parsing
+2022-09-15 09:50:31,801 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:50:31,801 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:50:31,802 - iHum:146
+2022-09-15 09:50:31,802 - lora_sensor date:[sensor: 1, date:2022-09-15 09:50:31, temperature:0.1, humidity: 65.8]
+2022-09-15 09:50:31,802 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:50:31,802 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:50:31,802 - zigbee_toString: [sensor: 101, date:2022-09-15 09:50:31, temperature:11.0, humidity: 11.0]
+2022-09-15 09:50:31,819 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:50:31, temperature:0.1, humidity: 65.8]
+2022-09-15 09:50:31,820 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@78b6973f
+2022-09-15 09:50:31,835 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:50:31, temperature:11.0, humidity: 11.0]
+2022-09-15 09:50:31,837 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@3827ab66
+2022-09-15 09:50:35,188 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 09:50:35,188 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:50:37,000 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:50:37,001 - Get the data of the lora end-device and start parsing
+2022-09-15 09:50:37,001 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:50:37,001 - iHum:146
+2022-09-15 09:50:37,002 - lora_sensor date:[sensor: 1, date:2022-09-15 09:50:37, temperature:0.1, humidity: 65.8]
+2022-09-15 09:50:37,003 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:50:37,004 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:50:37,004 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:50:37,004 - zigbee_toString: [sensor: 101, date:2022-09-15 09:50:37, temperature:11.0, humidity: 11.0]
+2022-09-15 09:50:37,018 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:50:37, temperature:0.1, humidity: 65.8]
+2022-09-15 09:50:37,019 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@45e226f7
+2022-09-15 09:50:37,035 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:50:37, temperature:11.0, humidity: 11.0]
+2022-09-15 09:50:37,036 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@b8f3a50
+2022-09-15 09:50:42,201 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:50:42,202 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:50:42,203 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:50:42,203 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:50:42,203 - zigbee_toString: [sensor: 101, date:2022-09-15 09:50:42, temperature:11.0, humidity: 11.0]
+2022-09-15 09:50:42,205 - Get the data of the lora end-device and start parsing
+2022-09-15 09:50:42,206 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:50:42,206 - iHum:146
+2022-09-15 09:50:42,206 - lora_sensor date:[sensor: 1, date:2022-09-15 09:50:42, temperature:0.1, humidity: 65.8]
+2022-09-15 09:50:42,228 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:50:42, temperature:11.0, humidity: 11.0]
+2022-09-15 09:50:42,229 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@44dc52f0
+2022-09-15 09:50:42,244 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:50:42, temperature:0.1, humidity: 65.8]
+2022-09-15 09:50:42,245 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@550ed298
+2022-09-15 09:56:42,676 - SerialPort COM5 is opening
+
+2022-09-15 09:56:42,683 - SerialPort COM1 is opening
+
+2022-09-15 09:56:42,684 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:56:48,880 - commPort：ELTIMA_Virtual_Serial_Port_00,SystemPortName:COM1
+2022-09-15 09:56:49,085 - commPort：ELTIMA_Virtual_Serial_Port_01,SystemPortName:COM2
+2022-09-15 09:56:49,285 - commPort：ELTIMA_Virtual_Serial_Port_02,SystemPortName:COM5
+2022-09-15 09:56:49,486 - commPort：ELTIMA_Virtual_Serial_Port_03,SystemPortName:COM6
+2022-09-15 09:56:52,685 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 09:56:52,685 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:56:54,939 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:56:54,943 - Get the data of the lora end-device and start parsing
+2022-09-15 09:56:54,943 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:56:54,945 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:56:54,945 - iHum:146
+2022-09-15 09:56:54,946 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:56:54,947 - lora_sensor date:[sensor: 1, date:2022-09-15 09:56:54, temperature:0.1, humidity: 65.8]
+2022-09-15 09:56:54,948 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:56:54,949 - zigbee_toString: [sensor: 101, date:2022-09-15 09:56:54, temperature:11.0, humidity: 11.0]
+2022-09-15 09:56:55,103 - MLog clients using slf4j logging.
+2022-09-15 09:56:55,448 - Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2022-09-15 09:56:55,576 - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1hgemf5arhfx9t71uq2i50|54d1f762, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> 1hgemf5arhfx9t71uq2i50|54d1f762, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1:3306/agiot?serverTimezone=UTC, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 30, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 200, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+2022-09-15 09:56:56,005 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:56:54, temperature:11.0, humidity: 11.0]
+2022-09-15 09:56:56,020 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:56:54, temperature:0.1, humidity: 65.8]
+2022-09-15 09:56:56,023 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@472e9f72
+2022-09-15 09:56:56,023 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@18d734a4
+2022-09-15 09:57:00,147 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:00,148 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:57:00,149 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:57:00,150 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:57:00,150 - Get the data of the lora end-device and start parsing
+2022-09-15 09:57:00,150 - zigbee_toString: [sensor: 101, date:2022-09-15 09:57:00, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:00,150 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:00,150 - iHum:146
+2022-09-15 09:57:00,150 - lora_sensor date:[sensor: 1, date:2022-09-15 09:57:00, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:00,169 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:57:00, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:00,170 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@4c1d0c17
+2022-09-15 09:57:00,185 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:57:00, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:00,187 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@68816813
+2022-09-15 09:57:02,686 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 09:57:02,686 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:57:05,348 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:05,349 - Get the data of the lora end-device and start parsing
+2022-09-15 09:57:05,349 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:57:05,350 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:57:05,350 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:05,350 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:57:05,350 - iHum:146
+2022-09-15 09:57:05,350 - zigbee_toString: [sensor: 101, date:2022-09-15 09:57:05, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:05,350 - lora_sensor date:[sensor: 1, date:2022-09-15 09:57:05, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:05,374 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:57:05, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:05,375 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@78b6973f
+2022-09-15 09:57:05,390 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:57:05, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:05,392 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@3827ab66
+2022-09-15 09:57:10,549 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:10,549 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:57:10,550 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:57:10,550 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:57:10,551 - zigbee_toString: [sensor: 101, date:2022-09-15 09:57:10, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:10,552 - Get the data of the lora end-device and start parsing
+2022-09-15 09:57:10,552 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:10,552 - iHum:146
+2022-09-15 09:57:10,552 - lora_sensor date:[sensor: 1, date:2022-09-15 09:57:10, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:10,573 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:57:10, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:10,574 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@45e226f7
+2022-09-15 09:57:10,590 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:57:10, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:10,591 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@b8f3a50
+2022-09-15 09:57:12,687 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 09:57:12,687 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:57:15,750 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:15,752 - Get the data of the lora end-device and start parsing
+2022-09-15 09:57:15,752 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:57:15,752 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:15,752 - iHum:146
+2022-09-15 09:57:15,753 - lora_sensor date:[sensor: 1, date:2022-09-15 09:57:15, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:15,753 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:57:15,753 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:57:15,753 - zigbee_toString: [sensor: 101, date:2022-09-15 09:57:15, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:15,777 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:57:15, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:15,778 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@44dc52f0
+2022-09-15 09:57:15,795 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:57:15, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:15,796 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@550ed298
+2022-09-15 09:57:16,081 - MqttClientFactory 创建连接失败！
+2022-09-15 09:57:16,081 - MqttClientFactory 创建连接失败！
+2022-09-15 09:57:16,085 - MqttClientFactory 异常信息为：MqttException
+2022-09-15 09:57:16,086 - MqttConnectionPool Thread:23获取连接:1条
+2022-09-15 09:57:16,085 - MqttClientFactory 异常信息为：MqttException
+2022-09-15 09:57:16,086 - MqttConnectionPool Thread:22获取连接:1条
+2022-09-15 09:57:16,186 - Message sending failed!
+2022-09-15 09:57:16,186 - Message sending failed!
+2022-09-15 09:57:16,186 - The exception information is：客户机未连接
+2022-09-15 09:57:16,186 - The exception information is：客户机未连接
+2022-09-15 09:57:16,186 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:56:54, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:16,186 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:56:54, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:20,172 - MqttClientFactory 创建连接失败！
+2022-09-15 09:57:20,172 - MqttClientFactory 异常信息为：MqttException
+2022-09-15 09:57:20,172 - MqttConnectionPool Thread:24获取连接:1条
+2022-09-15 09:57:20,172 - Message sending failed!
+2022-09-15 09:57:20,172 - The exception information is：客户机未连接
+2022-09-15 09:57:20,172 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:57:00, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:20,188 - MqttClientFactory 创建连接失败！
+2022-09-15 09:57:20,188 - MqttClientFactory 异常信息为：MqttException
+2022-09-15 09:57:20,188 - MqttConnectionPool Thread:25获取连接:1条
+2022-09-15 09:57:20,188 - Message sending failed!
+2022-09-15 09:57:20,189 - The exception information is：客户机未连接
+2022-09-15 09:57:20,189 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:57:00, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:20,951 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:20,951 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:57:20,952 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:57:20,952 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:57:20,952 - zigbee_toString: [sensor: 101, date:2022-09-15 09:57:20, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:20,953 - Get the data of the lora end-device and start parsing
+2022-09-15 09:57:20,953 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:20,953 - iHum:146
+2022-09-15 09:57:20,954 - lora_sensor date:[sensor: 1, date:2022-09-15 09:57:20, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:21,064 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:57:20, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:21,064 - Message sending failed!
+2022-09-15 09:57:21,065 - The exception information is：客户机未连接
+2022-09-15 09:57:21,065 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:57:20, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:21,081 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:57:20, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:21,081 - Message sending failed!
+2022-09-15 09:57:21,081 - The exception information is：客户机未连接
+2022-09-15 09:57:21,081 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:57:20, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:22,687 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 09:57:22,687 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:57:25,377 - MqttClientFactory 创建连接失败！
+2022-09-15 09:57:25,377 - MqttClientFactory 异常信息为：MqttException
+2022-09-15 09:57:25,377 - MqttConnectionPool Thread:26获取连接:1条
+2022-09-15 09:57:25,377 - Message sending failed!
+2022-09-15 09:57:25,377 - The exception information is：客户机未连接
+2022-09-15 09:57:25,377 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:57:05, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:25,395 - MqttClientFactory 创建连接失败！
+2022-09-15 09:57:25,395 - MqttClientFactory 异常信息为：MqttException
+2022-09-15 09:57:25,395 - MqttConnectionPool Thread:27获取连接:1条
+2022-09-15 09:57:25,395 - Message sending failed!
+2022-09-15 09:57:25,395 - The exception information is：客户机未连接
+2022-09-15 09:57:25,395 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:57:05, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:26,151 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:26,152 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:57:26,153 - Get the data of the lora end-device and start parsing
+2022-09-15 09:57:26,153 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:57:26,153 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:57:26,153 - zigbee_toString: [sensor: 101, date:2022-09-15 09:57:26, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:26,154 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:26,154 - iHum:146
+2022-09-15 09:57:26,154 - lora_sensor date:[sensor: 1, date:2022-09-15 09:57:26, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:26,252 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:57:26, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:26,252 - Message sending failed!
+2022-09-15 09:57:26,252 - The exception information is：客户机未连接
+2022-09-15 09:57:26,252 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:57:26, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:26,269 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:57:26, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:26,269 - Message sending failed!
+2022-09-15 09:57:26,270 - The exception information is：客户机未连接
+2022-09-15 09:57:26,270 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:57:26, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:30,576 - MqttClientFactory 创建连接失败！
+2022-09-15 09:57:30,576 - MqttClientFactory 异常信息为：MqttException
+2022-09-15 09:57:30,577 - MqttConnectionPool Thread:28获取连接:1条
+2022-09-15 09:57:30,577 - Message sending failed!
+2022-09-15 09:57:30,577 - The exception information is：客户机未连接
+2022-09-15 09:57:30,577 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:57:10, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:30,592 - MqttClientFactory 创建连接失败！
+2022-09-15 09:57:30,592 - MqttClientFactory 异常信息为：MqttException
+2022-09-15 09:57:30,592 - MqttConnectionPool Thread:29获取连接:1条
+2022-09-15 09:57:30,592 - Message sending failed!
+2022-09-15 09:57:30,592 - The exception information is：客户机未连接
+2022-09-15 09:57:30,592 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:57:10, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:31,352 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:31,354 - Get the data of the lora end-device and start parsing
+2022-09-15 09:57:31,354 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:57:31,354 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:31,354 - iHum:146
+2022-09-15 09:57:31,355 - lora_sensor date:[sensor: 1, date:2022-09-15 09:57:31, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:31,355 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:57:31,355 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:57:31,355 - zigbee_toString: [sensor: 101, date:2022-09-15 09:57:31, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:31,374 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:57:31, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:31,392 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:57:31, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:31,392 - Message sending failed!
+2022-09-15 09:57:31,392 - The exception information is：客户机未连接
+2022-09-15 09:57:31,392 - Message sending failed!
+2022-09-15 09:57:31,392 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:57:31, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:31,392 - The exception information is：客户机未连接
+2022-09-15 09:57:31,392 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:57:31, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:32,688 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 09:57:32,688 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:57:35,780 - MqttClientFactory 创建连接失败！
+2022-09-15 09:57:35,780 - MqttClientFactory 异常信息为：MqttException
+2022-09-15 09:57:35,780 - MqttConnectionPool Thread:30获取连接:1条
+2022-09-15 09:57:35,780 - Message sending failed!
+2022-09-15 09:57:35,780 - The exception information is：客户机未连接
+2022-09-15 09:57:35,780 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:57:15, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:35,798 - MqttClientFactory 创建连接失败！
+2022-09-15 09:57:35,798 - MqttClientFactory 异常信息为：MqttException
+2022-09-15 09:57:35,798 - MqttConnectionPool Thread:31获取连接:1条
+2022-09-15 09:57:35,799 - Message sending failed!
+2022-09-15 09:57:35,799 - The exception information is：客户机未连接
+2022-09-15 09:57:35,799 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:57:15, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:36,553 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:36,555 - Get the data of the lora end-device and start parsing
+2022-09-15 09:57:36,555 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:57:36,556 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:36,556 - iHum:146
+2022-09-15 09:57:36,556 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:57:36,556 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:57:36,556 - lora_sensor date:[sensor: 1, date:2022-09-15 09:57:36, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:36,556 - zigbee_toString: [sensor: 101, date:2022-09-15 09:57:36, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:36,574 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:57:36, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:36,574 - Message sending failed!
+2022-09-15 09:57:36,574 - The exception information is：客户机未连接
+2022-09-15 09:57:36,574 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:57:36, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:36,590 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:57:36, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:36,590 - Message sending failed!
+2022-09-15 09:57:36,591 - The exception information is：客户机未连接
+2022-09-15 09:57:36,591 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:57:36, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:41,755 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:41,759 - Get the data of the lora end-device and start parsing
+2022-09-15 09:57:41,759 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:57:41,760 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:41,760 - iHum:146
+2022-09-15 09:57:41,760 - lora_sensor date:[sensor: 1, date:2022-09-15 09:57:41, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:41,761 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:57:41,761 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:57:41,761 - zigbee_toString: [sensor: 101, date:2022-09-15 09:57:41, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:41,877 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:57:41, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:41,877 - Message sending failed!
+2022-09-15 09:57:41,877 - The exception information is：客户机未连接
+2022-09-15 09:57:41,877 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:57:41, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:41,894 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:57:41, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:41,894 - Message sending failed!
+2022-09-15 09:57:41,894 - The exception information is：客户机未连接
+2022-09-15 09:57:41,894 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:57:41, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:42,689 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 09:57:42,689 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:57:46,959 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:57:46,961 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:46,961 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:57:46,962 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:57:46,962 - zigbee_toString: [sensor: 101, date:2022-09-15 09:57:46, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:46,964 - Get the data of the lora end-device and start parsing
+2022-09-15 09:57:46,968 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:46,968 - iHum:146
+2022-09-15 09:57:46,976 - lora_sensor date:[sensor: 1, date:2022-09-15 09:57:46, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:47,077 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:57:46, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:47,077 - Message sending failed!
+2022-09-15 09:57:47,077 - The exception information is：客户机未连接
+2022-09-15 09:57:47,077 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:57:46, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:47,095 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:57:46, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:47,095 - Message sending failed!
+2022-09-15 09:57:47,095 - The exception information is：客户机未连接
+2022-09-15 09:57:47,095 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:57:46, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:52,159 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:57:52,160 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:57:52,161 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:57:52,161 - zigbee_toString: [sensor: 101, date:2022-09-15 09:57:52, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:52,169 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:52,171 - Get the data of the lora end-device and start parsing
+2022-09-15 09:57:52,172 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:52,172 - iHum:146
+2022-09-15 09:57:52,172 - lora_sensor date:[sensor: 1, date:2022-09-15 09:57:52, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:52,177 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:57:52, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:52,178 - Message sending failed!
+2022-09-15 09:57:52,178 - The exception information is：客户机未连接
+2022-09-15 09:57:52,178 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:57:52, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:52,194 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:57:52, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:52,194 - Message sending failed!
+2022-09-15 09:57:52,194 - The exception information is：客户机未连接
+2022-09-15 09:57:52,194 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:57:52, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:52,690 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 09:57:52,690 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:57:57,360 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:57:57,361 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:57:57,361 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:57:57,361 - zigbee_toString: [sensor: 101, date:2022-09-15 09:57:57, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:57,371 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:57,372 - Get the data of the lora end-device and start parsing
+2022-09-15 09:57:57,372 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:57:57,372 - iHum:146
+2022-09-15 09:57:57,373 - lora_sensor date:[sensor: 1, date:2022-09-15 09:57:57, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:57,382 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:57:57, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:57,383 - Message sending failed!
+2022-09-15 09:57:57,383 - The exception information is：客户机未连接
+2022-09-15 09:57:57,383 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:57:57, temperature:11.0, humidity: 11.0]
+2022-09-15 09:57:57,399 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:57:57, temperature:0.1, humidity: 65.8]
+2022-09-15 09:57:57,399 - Message sending failed!
+2022-09-15 09:57:57,399 - The exception information is：客户机未连接
+2022-09-15 09:57:57,399 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:57:57, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:02,563 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:58:02,565 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:58:02,565 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:58:02,566 - zigbee_toString: [sensor: 101, date:2022-09-15 09:58:02, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:02,573 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:02,575 - Get the data of the lora end-device and start parsing
+2022-09-15 09:58:02,577 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:02,577 - iHum:146
+2022-09-15 09:58:02,577 - lora_sensor date:[sensor: 1, date:2022-09-15 09:58:02, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:02,581 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:58:02, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:02,582 - Message sending failed!
+2022-09-15 09:58:02,582 - The exception information is：客户机未连接
+2022-09-15 09:58:02,582 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:58:02, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:02,598 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:58:02, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:02,598 - Message sending failed!
+2022-09-15 09:58:02,598 - The exception information is：客户机未连接
+2022-09-15 09:58:02,598 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:58:02, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:02,690 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 09:58:02,690 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:58:07,764 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:58:07,765 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:58:07,766 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:58:07,766 - zigbee_toString: [sensor: 101, date:2022-09-15 09:58:07, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:07,774 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:07,774 - Get the data of the lora end-device and start parsing
+2022-09-15 09:58:07,775 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:07,775 - iHum:146
+2022-09-15 09:58:07,775 - lora_sensor date:[sensor: 1, date:2022-09-15 09:58:07, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:07,787 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:58:07, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:07,787 - Message sending failed!
+2022-09-15 09:58:07,788 - The exception information is：客户机未连接
+2022-09-15 09:58:07,788 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:58:07, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:07,815 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:58:07, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:07,815 - Message sending failed!
+2022-09-15 09:58:07,815 - The exception information is：客户机未连接
+2022-09-15 09:58:07,815 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:58:07, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:12,690 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 09:58:12,690 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:58:12,966 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:58:12,968 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:58:12,968 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:58:12,969 - zigbee_toString: [sensor: 101, date:2022-09-15 09:58:12, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:12,975 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:12,977 - Get the data of the lora end-device and start parsing
+2022-09-15 09:58:12,977 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:12,978 - iHum:146
+2022-09-15 09:58:12,978 - lora_sensor date:[sensor: 1, date:2022-09-15 09:58:12, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:12,992 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:58:12, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:12,992 - Message sending failed!
+2022-09-15 09:58:12,992 - The exception information is：客户机未连接
+2022-09-15 09:58:12,992 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:58:12, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:13,008 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:58:12, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:13,009 - Message sending failed!
+2022-09-15 09:58:13,009 - The exception information is：客户机未连接
+2022-09-15 09:58:13,009 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:58:12, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:18,166 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:58:18,168 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:58:18,168 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:58:18,169 - zigbee_toString: [sensor: 101, date:2022-09-15 09:58:18, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:18,176 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:18,178 - Get the data of the lora end-device and start parsing
+2022-09-15 09:58:18,178 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:18,178 - iHum:146
+2022-09-15 09:58:18,178 - lora_sensor date:[sensor: 1, date:2022-09-15 09:58:18, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:18,344 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:58:18, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:18,344 - Message sending failed!
+2022-09-15 09:58:18,344 - The exception information is：客户机未连接
+2022-09-15 09:58:18,344 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:58:18, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:18,361 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:58:18, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:18,362 - Message sending failed!
+2022-09-15 09:58:18,362 - The exception information is：客户机未连接
+2022-09-15 09:58:18,362 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:58:18, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:22,691 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 09:58:22,691 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:58:23,368 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:58:23,369 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:58:23,369 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:58:23,369 - zigbee_toString: [sensor: 101, date:2022-09-15 09:58:23, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:23,378 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:23,379 - Get the data of the lora end-device and start parsing
+2022-09-15 09:58:23,380 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:23,380 - iHum:146
+2022-09-15 09:58:23,380 - lora_sensor date:[sensor: 1, date:2022-09-15 09:58:23, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:23,384 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:58:23, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:23,384 - Message sending failed!
+2022-09-15 09:58:23,384 - The exception information is：客户机未连接
+2022-09-15 09:58:23,384 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:58:23, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:23,401 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:58:23, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:23,401 - Message sending failed!
+2022-09-15 09:58:23,402 - The exception information is：客户机未连接
+2022-09-15 09:58:23,402 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:58:23, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:28,569 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:58:28,571 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:58:28,571 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:58:28,572 - zigbee_toString: [sensor: 101, date:2022-09-15 09:58:28, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:28,580 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:28,581 - Get the data of the lora end-device and start parsing
+2022-09-15 09:58:28,581 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:28,581 - iHum:146
+2022-09-15 09:58:28,581 - lora_sensor date:[sensor: 1, date:2022-09-15 09:58:28, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:28,596 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:58:28, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:28,596 - Message sending failed!
+2022-09-15 09:58:28,596 - The exception information is：客户机未连接
+2022-09-15 09:58:28,597 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:58:28, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:28,628 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:58:28, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:28,628 - Message sending failed!
+2022-09-15 09:58:28,628 - The exception information is：客户机未连接
+2022-09-15 09:58:28,628 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:58:28, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:32,691 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 09:58:32,691 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:58:33,768 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:58:33,769 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:58:33,769 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:58:33,769 - zigbee_toString: [sensor: 101, date:2022-09-15 09:58:33, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:33,781 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:33,782 - Get the data of the lora end-device and start parsing
+2022-09-15 09:58:33,782 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:33,782 - iHum:146
+2022-09-15 09:58:33,782 - lora_sensor date:[sensor: 1, date:2022-09-15 09:58:33, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:33,790 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:58:33, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:33,790 - Message sending failed!
+2022-09-15 09:58:33,790 - The exception information is：客户机未连接
+2022-09-15 09:58:33,790 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:58:33, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:33,806 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:58:33, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:33,806 - Message sending failed!
+2022-09-15 09:58:33,806 - The exception information is：客户机未连接
+2022-09-15 09:58:33,806 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:58:33, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:38,970 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:58:38,971 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:58:38,971 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:58:38,971 - zigbee_toString: [sensor: 101, date:2022-09-15 09:58:38, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:38,982 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:38,983 - Get the data of the lora end-device and start parsing
+2022-09-15 09:58:38,983 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:38,983 - iHum:146
+2022-09-15 09:58:38,983 - lora_sensor date:[sensor: 1, date:2022-09-15 09:58:38, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:38,993 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:58:38, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:38,993 - Message sending failed!
+2022-09-15 09:58:38,994 - The exception information is：客户机未连接
+2022-09-15 09:58:38,994 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:58:38, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:39,011 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:58:38, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:39,011 - Message sending failed!
+2022-09-15 09:58:39,011 - The exception information is：客户机未连接
+2022-09-15 09:58:39,011 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:58:38, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:42,692 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 09:58:42,692 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:58:44,170 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:58:44,171 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:58:44,171 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:58:44,171 - zigbee_toString: [sensor: 101, date:2022-09-15 09:58:44, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:44,182 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:44,182 - Get the data of the lora end-device and start parsing
+2022-09-15 09:58:44,183 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:44,183 - iHum:146
+2022-09-15 09:58:44,183 - lora_sensor date:[sensor: 1, date:2022-09-15 09:58:44, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:44,193 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:58:44, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:44,193 - Message sending failed!
+2022-09-15 09:58:44,193 - The exception information is：客户机未连接
+2022-09-15 09:58:44,193 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:58:44, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:44,209 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:58:44, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:44,209 - Message sending failed!
+2022-09-15 09:58:44,209 - The exception information is：客户机未连接
+2022-09-15 09:58:44,209 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:58:44, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:49,372 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:58:49,373 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:58:49,373 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:58:49,373 - zigbee_toString: [sensor: 101, date:2022-09-15 09:58:49, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:49,383 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:49,384 - Get the data of the lora end-device and start parsing
+2022-09-15 09:58:49,384 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:49,384 - iHum:146
+2022-09-15 09:58:49,384 - lora_sensor date:[sensor: 1, date:2022-09-15 09:58:49, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:49,398 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:58:49, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:49,398 - Message sending failed!
+2022-09-15 09:58:49,398 - The exception information is：客户机未连接
+2022-09-15 09:58:49,398 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:58:49, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:49,414 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:58:49, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:49,414 - Message sending failed!
+2022-09-15 09:58:49,414 - The exception information is：客户机未连接
+2022-09-15 09:58:49,414 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:58:49, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:52,692 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 09:58:52,692 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:58:54,575 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:58:54,577 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:58:54,577 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:58:54,578 - zigbee_toString: [sensor: 101, date:2022-09-15 09:58:54, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:54,584 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:54,586 - Get the data of the lora end-device and start parsing
+2022-09-15 09:58:54,587 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:54,588 - iHum:146
+2022-09-15 09:58:54,588 - lora_sensor date:[sensor: 1, date:2022-09-15 09:58:54, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:54,597 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:58:54, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:54,597 - Message sending failed!
+2022-09-15 09:58:54,597 - The exception information is：客户机未连接
+2022-09-15 09:58:54,597 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:58:54, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:54,614 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:58:54, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:54,614 - Message sending failed!
+2022-09-15 09:58:54,614 - The exception information is：客户机未连接
+2022-09-15 09:58:54,614 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:58:54, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:59,774 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:58:59,774 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:58:59,775 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:58:59,775 - zigbee_toString: [sensor: 101, date:2022-09-15 09:58:59, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:59,785 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:59,786 - Get the data of the lora end-device and start parsing
+2022-09-15 09:58:59,786 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:58:59,786 - iHum:146
+2022-09-15 09:58:59,786 - lora_sensor date:[sensor: 1, date:2022-09-15 09:58:59, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:59,970 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:58:59, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:59,972 - Message sending failed!
+2022-09-15 09:58:59,972 - The exception information is：客户机未连接
+2022-09-15 09:58:59,972 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:58:59, temperature:11.0, humidity: 11.0]
+2022-09-15 09:58:59,989 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:58:59, temperature:0.1, humidity: 65.8]
+2022-09-15 09:58:59,989 - Message sending failed!
+2022-09-15 09:58:59,989 - The exception information is：客户机未连接
+2022-09-15 09:58:59,989 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:58:59, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:02,693 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 09:59:02,693 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:59:04,976 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:59:04,977 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:59:04,977 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:59:04,977 - zigbee_toString: [sensor: 101, date:2022-09-15 09:59:04, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:04,986 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:04,986 - Get the data of the lora end-device and start parsing
+2022-09-15 09:59:04,986 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:04,986 - iHum:146
+2022-09-15 09:59:04,987 - lora_sensor date:[sensor: 1, date:2022-09-15 09:59:04, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:05,409 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:59:04, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:05,409 - Message sending failed!
+2022-09-15 09:59:05,409 - The exception information is：客户机未连接
+2022-09-15 09:59:05,409 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:59:04, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:05,436 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:59:04, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:05,436 - Message sending failed!
+2022-09-15 09:59:05,436 - The exception information is：客户机未连接
+2022-09-15 09:59:05,436 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:59:04, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:10,177 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:59:10,178 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:59:10,178 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:59:10,178 - zigbee_toString: [sensor: 101, date:2022-09-15 09:59:10, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:10,188 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:10,189 - Get the data of the lora end-device and start parsing
+2022-09-15 09:59:10,189 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:10,189 - iHum:146
+2022-09-15 09:59:10,189 - lora_sensor date:[sensor: 1, date:2022-09-15 09:59:10, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:10,293 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:59:10, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:10,293 - Message sending failed!
+2022-09-15 09:59:10,293 - The exception information is：客户机未连接
+2022-09-15 09:59:10,293 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:59:10, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:10,311 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:59:10, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:10,311 - Message sending failed!
+2022-09-15 09:59:10,311 - The exception information is：客户机未连接
+2022-09-15 09:59:10,311 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:59:10, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:12,694 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 09:59:12,694 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:59:15,377 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:59:15,378 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:59:15,378 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:59:15,378 - zigbee_toString: [sensor: 101, date:2022-09-15 09:59:15, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:15,389 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:15,390 - Get the data of the lora end-device and start parsing
+2022-09-15 09:59:15,391 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:15,391 - iHum:146
+2022-09-15 09:59:15,391 - lora_sensor date:[sensor: 1, date:2022-09-15 09:59:15, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:15,400 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:59:15, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:15,401 - Message sending failed!
+2022-09-15 09:59:15,401 - The exception information is：客户机未连接
+2022-09-15 09:59:15,401 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:59:15, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:15,418 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:59:15, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:15,418 - Message sending failed!
+2022-09-15 09:59:15,418 - The exception information is：客户机未连接
+2022-09-15 09:59:15,418 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:59:15, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:20,580 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:59:20,582 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:59:20,582 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:59:20,582 - zigbee_toString: [sensor: 101, date:2022-09-15 09:59:20, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:20,592 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:20,594 - Get the data of the lora end-device and start parsing
+2022-09-15 09:59:20,594 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:20,594 - iHum:146
+2022-09-15 09:59:20,594 - lora_sensor date:[sensor: 1, date:2022-09-15 09:59:20, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:20,693 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:59:20, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:20,693 - Message sending failed!
+2022-09-15 09:59:20,693 - The exception information is：客户机未连接
+2022-09-15 09:59:20,693 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:59:20, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:20,710 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:59:20, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:20,710 - Message sending failed!
+2022-09-15 09:59:20,710 - The exception information is：客户机未连接
+2022-09-15 09:59:20,710 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:59:20, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:22,711 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 09:59:22,711 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:59:25,780 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:59:25,781 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:59:25,781 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:59:25,781 - zigbee_toString: [sensor: 101, date:2022-09-15 09:59:25, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:25,792 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:25,794 - Get the data of the lora end-device and start parsing
+2022-09-15 09:59:25,795 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:25,795 - iHum:146
+2022-09-15 09:59:25,795 - lora_sensor date:[sensor: 1, date:2022-09-15 09:59:25, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:25,903 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:59:25, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:25,903 - Message sending failed!
+2022-09-15 09:59:25,903 - The exception information is：客户机未连接
+2022-09-15 09:59:25,903 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:59:25, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:25,921 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:59:25, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:25,922 - Message sending failed!
+2022-09-15 09:59:25,922 - The exception information is：客户机未连接
+2022-09-15 09:59:25,922 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:59:25, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:30,980 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:59:30,982 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:59:30,982 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:59:30,983 - zigbee_toString: [sensor: 101, date:2022-09-15 09:59:30, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:30,993 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:30,994 - Get the data of the lora end-device and start parsing
+2022-09-15 09:59:30,996 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:30,996 - iHum:146
+2022-09-15 09:59:30,996 - lora_sensor date:[sensor: 1, date:2022-09-15 09:59:30, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:31,093 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:59:30, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:31,093 - Message sending failed!
+2022-09-15 09:59:31,093 - The exception information is：客户机未连接
+2022-09-15 09:59:31,094 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:59:30, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:31,111 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:59:30, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:31,111 - Message sending failed!
+2022-09-15 09:59:31,111 - The exception information is：客户机未连接
+2022-09-15 09:59:31,111 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:59:30, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:32,712 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 09:59:32,712 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:59:36,181 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:59:36,182 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:59:36,182 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:59:36,182 - zigbee_toString: [sensor: 101, date:2022-09-15 09:59:36, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:36,194 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:36,195 - Get the data of the lora end-device and start parsing
+2022-09-15 09:59:36,195 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:36,195 - iHum:146
+2022-09-15 09:59:36,196 - lora_sensor date:[sensor: 1, date:2022-09-15 09:59:36, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:36,287 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:59:36, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:36,287 - Message sending failed!
+2022-09-15 09:59:36,287 - The exception information is：客户机未连接
+2022-09-15 09:59:36,287 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:59:36, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:36,303 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:59:36, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:36,303 - Message sending failed!
+2022-09-15 09:59:36,303 - The exception information is：客户机未连接
+2022-09-15 09:59:36,303 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:59:36, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:41,381 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:59:41,382 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:59:41,382 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:59:41,382 - zigbee_toString: [sensor: 101, date:2022-09-15 09:59:41, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:41,395 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:41,396 - Get the data of the lora end-device and start parsing
+2022-09-15 09:59:41,396 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:41,396 - iHum:146
+2022-09-15 09:59:41,396 - lora_sensor date:[sensor: 1, date:2022-09-15 09:59:41, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:41,497 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:59:41, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:41,497 - Message sending failed!
+2022-09-15 09:59:41,497 - The exception information is：客户机未连接
+2022-09-15 09:59:41,497 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:59:41, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:41,514 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:59:41, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:41,515 - Message sending failed!
+2022-09-15 09:59:41,515 - The exception information is：客户机未连接
+2022-09-15 09:59:41,515 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:59:41, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:42,713 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 09:59:42,713 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:59:46,797 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:46,801 - Get the data of the lora end-device and start parsing
+2022-09-15 09:59:46,810 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:46,810 - iHum:146
+2022-09-15 09:59:46,810 - lora_sensor date:[sensor: 1, date:2022-09-15 09:59:46, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:46,811 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:59:46,812 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:59:46,812 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:59:46,813 - zigbee_toString: [sensor: 101, date:2022-09-15 09:59:46, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:46,847 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:59:46, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:46,861 - Message sending failed!
+2022-09-15 09:59:46,861 - The exception information is：客户机未连接
+2022-09-15 09:59:46,861 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:59:46, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:46,863 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:59:46, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:46,863 - Message sending failed!
+2022-09-15 09:59:46,863 - The exception information is：客户机未连接
+2022-09-15 09:59:46,863 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:59:46, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:51,938 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:59:51,940 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:59:51,940 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:59:51,942 - zigbee_toString: [sensor: 101, date:2022-09-15 09:59:51, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:52,000 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:52,001 - Get the data of the lora end-device and start parsing
+2022-09-15 09:59:52,001 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:52,001 - iHum:146
+2022-09-15 09:59:52,001 - lora_sensor date:[sensor: 1, date:2022-09-15 09:59:52, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:52,049 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:59:51, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:52,050 - Message sending failed!
+2022-09-15 09:59:52,050 - The exception information is：客户机未连接
+2022-09-15 09:59:52,050 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:59:51, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:52,067 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:59:52, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:52,067 - Message sending failed!
+2022-09-15 09:59:52,067 - The exception information is：客户机未连接
+2022-09-15 09:59:52,067 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:59:52, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:52,713 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 09:59:52,713 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 09:59:57,140 - Get the data of the zigbee end-device and start parsing
+2022-09-15 09:59:57,141 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 09:59:57,141 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 09:59:57,141 - zigbee_toString: [sensor: 101, date:2022-09-15 09:59:57, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:57,205 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:57,208 - Get the data of the lora end-device and start parsing
+2022-09-15 09:59:57,209 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 09:59:57,209 - iHum:146
+2022-09-15 09:59:57,209 - lora_sensor date:[sensor: 1, date:2022-09-15 09:59:57, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:57,249 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 09:59:57, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:57,250 - Message sending failed!
+2022-09-15 09:59:57,250 - The exception information is：客户机未连接
+2022-09-15 09:59:57,250 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 09:59:57, temperature:11.0, humidity: 11.0]
+2022-09-15 09:59:57,266 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 09:59:57, temperature:0.1, humidity: 65.8]
+2022-09-15 09:59:57,266 - Message sending failed!
+2022-09-15 09:59:57,267 - The exception information is：客户机未连接
+2022-09-15 09:59:57,268 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 09:59:57, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:02,345 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:00:02,347 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:00:02,347 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:00:02,348 - zigbee_toString: [sensor: 101, date:2022-09-15 10:00:02, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:02,406 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:02,408 - Get the data of the lora end-device and start parsing
+2022-09-15 10:00:02,408 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:02,408 - iHum:146
+2022-09-15 10:00:02,408 - lora_sensor date:[sensor: 1, date:2022-09-15 10:00:02, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:02,458 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:00:02, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:02,459 - Message sending failed!
+2022-09-15 10:00:02,459 - The exception information is：客户机未连接
+2022-09-15 10:00:02,459 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:00:02, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:02,476 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:00:02, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:02,476 - Message sending failed!
+2022-09-15 10:00:02,476 - The exception information is：客户机未连接
+2022-09-15 10:00:02,476 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:00:02, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:02,713 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:00:02,713 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:00:07,546 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:00:07,548 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:00:07,548 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:00:07,549 - zigbee_toString: [sensor: 101, date:2022-09-15 10:00:07, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:07,608 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:07,609 - Get the data of the lora end-device and start parsing
+2022-09-15 10:00:07,609 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:07,609 - iHum:146
+2022-09-15 10:00:07,609 - lora_sensor date:[sensor: 1, date:2022-09-15 10:00:07, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:07,653 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:00:07, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:07,653 - Message sending failed!
+2022-09-15 10:00:07,653 - The exception information is：客户机未连接
+2022-09-15 10:00:07,653 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:00:07, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:07,670 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:00:07, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:07,670 - Message sending failed!
+2022-09-15 10:00:07,670 - The exception information is：客户机未连接
+2022-09-15 10:00:07,670 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:00:07, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:12,714 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:00:12,714 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:00:12,746 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:00:12,747 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:00:12,747 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:00:12,747 - zigbee_toString: [sensor: 101, date:2022-09-15 10:00:12, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:12,808 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:12,810 - Get the data of the lora end-device and start parsing
+2022-09-15 10:00:12,810 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:12,810 - iHum:146
+2022-09-15 10:00:12,810 - lora_sensor date:[sensor: 1, date:2022-09-15 10:00:12, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:12,853 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:00:12, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:12,853 - Message sending failed!
+2022-09-15 10:00:12,853 - The exception information is：客户机未连接
+2022-09-15 10:00:12,853 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:00:12, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:12,881 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:00:12, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:12,881 - Message sending failed!
+2022-09-15 10:00:12,881 - The exception information is：客户机未连接
+2022-09-15 10:00:12,881 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:00:12, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:17,948 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:00:17,949 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:00:17,949 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:00:17,950 - zigbee_toString: [sensor: 101, date:2022-09-15 10:00:17, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:18,010 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:18,012 - Get the data of the lora end-device and start parsing
+2022-09-15 10:00:18,012 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:18,012 - iHum:146
+2022-09-15 10:00:18,012 - lora_sensor date:[sensor: 1, date:2022-09-15 10:00:18, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:18,057 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:00:17, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:18,058 - Message sending failed!
+2022-09-15 10:00:18,058 - The exception information is：客户机未连接
+2022-09-15 10:00:18,058 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:00:17, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:18,075 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:00:18, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:18,075 - Message sending failed!
+2022-09-15 10:00:18,075 - The exception information is：客户机未连接
+2022-09-15 10:00:18,075 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:00:18, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:22,715 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:00:22,715 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:00:23,149 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:00:23,150 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:00:23,150 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:00:23,150 - zigbee_toString: [sensor: 101, date:2022-09-15 10:00:23, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:23,211 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:23,211 - Get the data of the lora end-device and start parsing
+2022-09-15 10:00:23,212 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:23,212 - iHum:146
+2022-09-15 10:00:23,212 - lora_sensor date:[sensor: 1, date:2022-09-15 10:00:23, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:23,263 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:00:23, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:23,263 - Message sending failed!
+2022-09-15 10:00:23,263 - The exception information is：客户机未连接
+2022-09-15 10:00:23,263 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:00:23, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:23,280 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:00:23, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:23,280 - Message sending failed!
+2022-09-15 10:00:23,280 - The exception information is：客户机未连接
+2022-09-15 10:00:23,281 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:00:23, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:28,350 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:00:28,352 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:00:28,352 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:00:28,352 - zigbee_toString: [sensor: 101, date:2022-09-15 10:00:28, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:28,412 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:28,413 - Get the data of the lora end-device and start parsing
+2022-09-15 10:00:28,413 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:28,413 - iHum:146
+2022-09-15 10:00:28,413 - lora_sensor date:[sensor: 1, date:2022-09-15 10:00:28, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:28,456 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:00:28, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:28,456 - Message sending failed!
+2022-09-15 10:00:28,456 - The exception information is：客户机未连接
+2022-09-15 10:00:28,456 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:00:28, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:28,474 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:00:28, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:28,474 - Message sending failed!
+2022-09-15 10:00:28,474 - The exception information is：客户机未连接
+2022-09-15 10:00:28,474 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:00:28, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:32,715 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:00:32,715 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:00:33,550 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:00:33,552 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:00:33,552 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:00:33,552 - zigbee_toString: [sensor: 101, date:2022-09-15 10:00:33, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:33,613 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:33,615 - Get the data of the lora end-device and start parsing
+2022-09-15 10:00:33,615 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:33,615 - iHum:146
+2022-09-15 10:00:33,615 - lora_sensor date:[sensor: 1, date:2022-09-15 10:00:33, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:33,661 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:00:33, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:33,662 - Message sending failed!
+2022-09-15 10:00:33,662 - The exception information is：客户机未连接
+2022-09-15 10:00:33,662 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:00:33, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:33,679 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:00:33, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:33,679 - Message sending failed!
+2022-09-15 10:00:33,679 - The exception information is：客户机未连接
+2022-09-15 10:00:33,679 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:00:33, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:38,752 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:00:38,753 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:00:38,753 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:00:38,753 - zigbee_toString: [sensor: 101, date:2022-09-15 10:00:38, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:38,814 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:38,816 - Get the data of the lora end-device and start parsing
+2022-09-15 10:00:38,816 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:38,816 - iHum:146
+2022-09-15 10:00:38,816 - lora_sensor date:[sensor: 1, date:2022-09-15 10:00:38, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:38,948 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:00:38, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:38,948 - Message sending failed!
+2022-09-15 10:00:38,948 - The exception information is：客户机未连接
+2022-09-15 10:00:38,948 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:00:38, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:38,965 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:00:38, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:38,966 - Message sending failed!
+2022-09-15 10:00:38,966 - The exception information is：客户机未连接
+2022-09-15 10:00:38,966 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:00:38, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:42,715 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:00:42,715 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:00:43,953 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:00:43,954 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:00:43,954 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:00:43,954 - zigbee_toString: [sensor: 101, date:2022-09-15 10:00:43, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:44,015 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:44,015 - Get the data of the lora end-device and start parsing
+2022-09-15 10:00:44,016 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:44,016 - iHum:146
+2022-09-15 10:00:44,016 - lora_sensor date:[sensor: 1, date:2022-09-15 10:00:44, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:44,076 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:00:43, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:44,076 - Message sending failed!
+2022-09-15 10:00:44,076 - The exception information is：客户机未连接
+2022-09-15 10:00:44,076 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:00:43, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:44,093 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:00:44, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:44,093 - Message sending failed!
+2022-09-15 10:00:44,093 - The exception information is：客户机未连接
+2022-09-15 10:00:44,093 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:00:44, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:49,154 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:00:49,155 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:00:49,155 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:00:49,155 - zigbee_toString: [sensor: 101, date:2022-09-15 10:00:49, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:49,216 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:49,217 - Get the data of the lora end-device and start parsing
+2022-09-15 10:00:49,217 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:49,217 - iHum:146
+2022-09-15 10:00:49,217 - lora_sensor date:[sensor: 1, date:2022-09-15 10:00:49, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:49,267 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:00:49, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:49,267 - Message sending failed!
+2022-09-15 10:00:49,267 - The exception information is：客户机未连接
+2022-09-15 10:00:49,267 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:00:49, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:49,293 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:00:49, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:49,293 - Message sending failed!
+2022-09-15 10:00:49,293 - The exception information is：客户机未连接
+2022-09-15 10:00:49,293 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:00:49, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:52,716 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:00:52,716 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:00:54,355 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:00:54,356 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:00:54,356 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:00:54,356 - zigbee_toString: [sensor: 101, date:2022-09-15 10:00:54, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:54,416 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:54,417 - Get the data of the lora end-device and start parsing
+2022-09-15 10:00:54,417 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:54,417 - iHum:146
+2022-09-15 10:00:54,417 - lora_sensor date:[sensor: 1, date:2022-09-15 10:00:54, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:54,459 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:00:54, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:54,460 - Message sending failed!
+2022-09-15 10:00:54,460 - The exception information is：客户机未连接
+2022-09-15 10:00:54,460 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:00:54, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:54,476 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:00:54, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:54,476 - Message sending failed!
+2022-09-15 10:00:54,476 - The exception information is：客户机未连接
+2022-09-15 10:00:54,476 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:00:54, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:59,556 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:00:59,558 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:00:59,559 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:00:59,559 - zigbee_toString: [sensor: 101, date:2022-09-15 10:00:59, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:59,618 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:59,619 - Get the data of the lora end-device and start parsing
+2022-09-15 10:00:59,619 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:00:59,619 - iHum:146
+2022-09-15 10:00:59,619 - lora_sensor date:[sensor: 1, date:2022-09-15 10:00:59, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:59,680 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:00:59, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:59,680 - Message sending failed!
+2022-09-15 10:00:59,680 - The exception information is：客户机未连接
+2022-09-15 10:00:59,680 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:00:59, temperature:11.0, humidity: 11.0]
+2022-09-15 10:00:59,697 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:00:59, temperature:0.1, humidity: 65.8]
+2022-09-15 10:00:59,697 - Message sending failed!
+2022-09-15 10:00:59,698 - The exception information is：客户机未连接
+2022-09-15 10:00:59,698 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:00:59, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:02,717 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:01:02,717 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:01:04,756 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:01:04,757 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:01:04,757 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:01:04,757 - zigbee_toString: [sensor: 101, date:2022-09-15 10:01:04, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:04,818 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:04,820 - Get the data of the lora end-device and start parsing
+2022-09-15 10:01:04,820 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:04,820 - iHum:146
+2022-09-15 10:01:04,820 - lora_sensor date:[sensor: 1, date:2022-09-15 10:01:04, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:04,863 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:01:04, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:04,863 - Message sending failed!
+2022-09-15 10:01:04,863 - The exception information is：客户机未连接
+2022-09-15 10:01:04,863 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:01:04, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:04,880 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:01:04, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:04,881 - Message sending failed!
+2022-09-15 10:01:04,881 - The exception information is：客户机未连接
+2022-09-15 10:01:04,881 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:01:04, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:09,958 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:01:09,959 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:01:09,959 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:01:09,960 - zigbee_toString: [sensor: 101, date:2022-09-15 10:01:09, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:10,019 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:10,020 - Get the data of the lora end-device and start parsing
+2022-09-15 10:01:10,020 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:10,020 - iHum:146
+2022-09-15 10:01:10,020 - lora_sensor date:[sensor: 1, date:2022-09-15 10:01:10, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:10,067 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:01:09, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:10,068 - Message sending failed!
+2022-09-15 10:01:10,068 - The exception information is：客户机未连接
+2022-09-15 10:01:10,068 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:01:09, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:10,085 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:01:10, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:10,085 - Message sending failed!
+2022-09-15 10:01:10,085 - The exception information is：客户机未连接
+2022-09-15 10:01:10,085 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:01:10, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:12,717 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:01:12,717 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:01:15,158 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:01:15,160 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:01:15,160 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:01:15,161 - zigbee_toString: [sensor: 101, date:2022-09-15 10:01:15, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:15,221 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:15,223 - Get the data of the lora end-device and start parsing
+2022-09-15 10:01:15,223 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:15,223 - iHum:146
+2022-09-15 10:01:15,223 - lora_sensor date:[sensor: 1, date:2022-09-15 10:01:15, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:15,262 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:01:15, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:15,263 - Message sending failed!
+2022-09-15 10:01:15,263 - The exception information is：客户机未连接
+2022-09-15 10:01:15,263 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:01:15, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:15,279 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:01:15, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:15,279 - Message sending failed!
+2022-09-15 10:01:15,279 - The exception information is：客户机未连接
+2022-09-15 10:01:15,279 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:01:15, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:20,360 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:01:20,362 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:01:20,362 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:01:20,363 - zigbee_toString: [sensor: 101, date:2022-09-15 10:01:20, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:20,422 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:20,424 - Get the data of the lora end-device and start parsing
+2022-09-15 10:01:20,424 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:20,424 - iHum:146
+2022-09-15 10:01:20,424 - lora_sensor date:[sensor: 1, date:2022-09-15 10:01:20, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:20,478 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:01:20, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:20,479 - Message sending failed!
+2022-09-15 10:01:20,479 - The exception information is：客户机未连接
+2022-09-15 10:01:20,479 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:01:20, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:20,495 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:01:20, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:20,495 - Message sending failed!
+2022-09-15 10:01:20,495 - The exception information is：客户机未连接
+2022-09-15 10:01:20,495 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:01:20, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:22,717 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:01:22,717 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:01:25,559 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:01:25,560 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:01:25,560 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:01:25,560 - zigbee_toString: [sensor: 101, date:2022-09-15 10:01:25, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:25,623 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:25,624 - Get the data of the lora end-device and start parsing
+2022-09-15 10:01:25,624 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:25,624 - iHum:146
+2022-09-15 10:01:25,625 - lora_sensor date:[sensor: 1, date:2022-09-15 10:01:25, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:25,661 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:01:25, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:25,661 - Message sending failed!
+2022-09-15 10:01:25,661 - The exception information is：客户机未连接
+2022-09-15 10:01:25,661 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:01:25, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:25,678 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:01:25, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:25,678 - Message sending failed!
+2022-09-15 10:01:25,678 - The exception information is：客户机未连接
+2022-09-15 10:01:25,678 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:01:25, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:30,761 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:01:30,762 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:01:30,762 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:01:30,762 - zigbee_toString: [sensor: 101, date:2022-09-15 10:01:30, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:30,824 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:30,825 - Get the data of the lora end-device and start parsing
+2022-09-15 10:01:30,826 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:30,826 - iHum:146
+2022-09-15 10:01:30,826 - lora_sensor date:[sensor: 1, date:2022-09-15 10:01:30, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:30,871 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:01:30, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:30,871 - Message sending failed!
+2022-09-15 10:01:30,871 - The exception information is：客户机未连接
+2022-09-15 10:01:30,872 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:01:30, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:30,889 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:01:30, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:30,889 - Message sending failed!
+2022-09-15 10:01:30,889 - The exception information is：客户机未连接
+2022-09-15 10:01:30,889 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:01:30, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:32,717 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:01:32,717 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:01:35,963 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:01:35,965 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:01:35,966 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:01:35,966 - zigbee_toString: [sensor: 101, date:2022-09-15 10:01:35, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:35,994 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:01:35, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:35,995 - Message sending failed!
+2022-09-15 10:01:35,995 - The exception information is：客户机未连接
+2022-09-15 10:01:35,995 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:01:35, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:36,025 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:36,028 - Get the data of the lora end-device and start parsing
+2022-09-15 10:01:36,029 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:36,029 - iHum:146
+2022-09-15 10:01:36,029 - lora_sensor date:[sensor: 1, date:2022-09-15 10:01:36, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:36,044 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:01:36, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:36,044 - Message sending failed!
+2022-09-15 10:01:36,044 - The exception information is：客户机未连接
+2022-09-15 10:01:36,044 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:01:36, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:41,163 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:01:41,165 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:01:41,165 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:01:41,165 - zigbee_toString: [sensor: 101, date:2022-09-15 10:01:41, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:41,226 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:41,228 - Get the data of the lora end-device and start parsing
+2022-09-15 10:01:41,228 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:41,228 - iHum:146
+2022-09-15 10:01:41,228 - lora_sensor date:[sensor: 1, date:2022-09-15 10:01:41, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:41,270 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:01:41, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:41,270 - Message sending failed!
+2022-09-15 10:01:41,270 - The exception information is：客户机未连接
+2022-09-15 10:01:41,270 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:01:41, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:41,288 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:01:41, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:41,288 - Message sending failed!
+2022-09-15 10:01:41,288 - The exception information is：客户机未连接
+2022-09-15 10:01:41,288 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:01:41, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:42,717 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:01:42,717 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:01:46,364 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:01:46,366 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:01:46,366 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:01:46,366 - zigbee_toString: [sensor: 101, date:2022-09-15 10:01:46, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:46,427 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:46,428 - Get the data of the lora end-device and start parsing
+2022-09-15 10:01:46,428 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:46,428 - iHum:146
+2022-09-15 10:01:46,428 - lora_sensor date:[sensor: 1, date:2022-09-15 10:01:46, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:46,470 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:01:46, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:46,470 - Message sending failed!
+2022-09-15 10:01:46,470 - The exception information is：客户机未连接
+2022-09-15 10:01:46,470 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:01:46, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:46,498 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:01:46, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:46,498 - Message sending failed!
+2022-09-15 10:01:46,498 - The exception information is：客户机未连接
+2022-09-15 10:01:46,498 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:01:46, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:51,565 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:01:51,566 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:01:51,566 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:01:51,567 - zigbee_toString: [sensor: 101, date:2022-09-15 10:01:51, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:51,628 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:51,630 - Get the data of the lora end-device and start parsing
+2022-09-15 10:01:51,630 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:51,630 - iHum:146
+2022-09-15 10:01:51,630 - lora_sensor date:[sensor: 1, date:2022-09-15 10:01:51, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:51,675 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:01:51, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:51,675 - Message sending failed!
+2022-09-15 10:01:51,675 - The exception information is：客户机未连接
+2022-09-15 10:01:51,675 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:01:51, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:51,692 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:01:51, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:51,692 - Message sending failed!
+2022-09-15 10:01:51,692 - The exception information is：客户机未连接
+2022-09-15 10:01:51,692 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:01:51, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:52,734 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:01:52,734 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:01:56,765 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:01:56,766 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:01:56,766 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:01:56,766 - zigbee_toString: [sensor: 101, date:2022-09-15 10:01:56, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:56,829 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:56,831 - Get the data of the lora end-device and start parsing
+2022-09-15 10:01:56,831 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:01:56,831 - iHum:146
+2022-09-15 10:01:56,831 - lora_sensor date:[sensor: 1, date:2022-09-15 10:01:56, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:56,869 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:01:56, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:56,870 - Message sending failed!
+2022-09-15 10:01:56,870 - The exception information is：客户机未连接
+2022-09-15 10:01:56,870 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:01:56, temperature:11.0, humidity: 11.0]
+2022-09-15 10:01:56,887 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:01:56, temperature:0.1, humidity: 65.8]
+2022-09-15 10:01:56,887 - Message sending failed!
+2022-09-15 10:01:56,887 - The exception information is：客户机未连接
+2022-09-15 10:01:56,887 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:01:56, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:01,967 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:02:01,969 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:02:01,969 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:02:01,969 - zigbee_toString: [sensor: 101, date:2022-09-15 10:02:01, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:02,030 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:02,031 - Get the data of the lora end-device and start parsing
+2022-09-15 10:02:02,031 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:02,031 - iHum:146
+2022-09-15 10:02:02,031 - lora_sensor date:[sensor: 1, date:2022-09-15 10:02:02, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:02,074 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:02:01, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:02,074 - Message sending failed!
+2022-09-15 10:02:02,074 - The exception information is：客户机未连接
+2022-09-15 10:02:02,074 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:02:01, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:02,091 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:02:02, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:02,091 - Message sending failed!
+2022-09-15 10:02:02,092 - The exception information is：客户机未连接
+2022-09-15 10:02:02,092 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:02:02, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:02,734 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:02:02,734 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:02:07,167 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:02:07,169 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:02:07,169 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:02:07,170 - zigbee_toString: [sensor: 101, date:2022-09-15 10:02:07, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:07,197 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:02:07, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:07,197 - Message sending failed!
+2022-09-15 10:02:07,197 - The exception information is：客户机未连接
+2022-09-15 10:02:07,197 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:02:07, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:07,231 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:07,232 - Get the data of the lora end-device and start parsing
+2022-09-15 10:02:07,233 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:07,233 - iHum:146
+2022-09-15 10:02:07,233 - lora_sensor date:[sensor: 1, date:2022-09-15 10:02:07, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:07,247 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:02:07, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:07,247 - Message sending failed!
+2022-09-15 10:02:07,247 - The exception information is：客户机未连接
+2022-09-15 10:02:07,247 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:02:07, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:12,369 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:02:12,372 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:02:12,372 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:02:12,372 - zigbee_toString: [sensor: 101, date:2022-09-15 10:02:12, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:12,432 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:12,433 - Get the data of the lora end-device and start parsing
+2022-09-15 10:02:12,433 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:12,433 - iHum:146
+2022-09-15 10:02:12,433 - lora_sensor date:[sensor: 1, date:2022-09-15 10:02:12, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:12,550 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:02:12, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:12,550 - Message sending failed!
+2022-09-15 10:02:12,550 - The exception information is：客户机未连接
+2022-09-15 10:02:12,550 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:02:12, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:12,566 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:02:12, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:12,566 - Message sending failed!
+2022-09-15 10:02:12,567 - The exception information is：客户机未连接
+2022-09-15 10:02:12,567 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:02:12, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:12,735 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:02:12,735 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:02:17,568 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:02:17,570 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:02:17,570 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:02:17,571 - zigbee_toString: [sensor: 101, date:2022-09-15 10:02:17, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:17,635 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:17,637 - Get the data of the lora end-device and start parsing
+2022-09-15 10:02:17,637 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:17,637 - iHum:146
+2022-09-15 10:02:17,637 - lora_sensor date:[sensor: 1, date:2022-09-15 10:02:17, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:17,672 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:02:17, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:17,672 - Message sending failed!
+2022-09-15 10:02:17,672 - The exception information is：客户机未连接
+2022-09-15 10:02:17,672 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:02:17, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:17,690 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:02:17, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:17,690 - Message sending failed!
+2022-09-15 10:02:17,690 - The exception information is：客户机未连接
+2022-09-15 10:02:17,690 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:02:17, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:22,736 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:02:22,736 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:02:22,768 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:02:22,769 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:02:22,769 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:02:22,769 - zigbee_toString: [sensor: 101, date:2022-09-15 10:02:22, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:22,836 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:22,838 - Get the data of the lora end-device and start parsing
+2022-09-15 10:02:22,838 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:22,838 - iHum:146
+2022-09-15 10:02:22,839 - lora_sensor date:[sensor: 1, date:2022-09-15 10:02:22, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:22,877 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:02:22, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:22,877 - Message sending failed!
+2022-09-15 10:02:22,877 - The exception information is：客户机未连接
+2022-09-15 10:02:22,877 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:02:22, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:22,894 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:02:22, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:22,895 - Message sending failed!
+2022-09-15 10:02:22,895 - The exception information is：客户机未连接
+2022-09-15 10:02:22,895 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:02:22, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:27,970 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:02:27,972 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:02:27,972 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:02:27,972 - zigbee_toString: [sensor: 101, date:2022-09-15 10:02:27, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:28,000 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:02:27, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:28,000 - Message sending failed!
+2022-09-15 10:02:28,001 - The exception information is：客户机未连接
+2022-09-15 10:02:28,001 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:02:27, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:28,037 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:28,039 - Get the data of the lora end-device and start parsing
+2022-09-15 10:02:28,039 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:28,039 - iHum:146
+2022-09-15 10:02:28,039 - lora_sensor date:[sensor: 1, date:2022-09-15 10:02:28, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:28,061 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:02:28, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:28,061 - Message sending failed!
+2022-09-15 10:02:28,061 - The exception information is：客户机未连接
+2022-09-15 10:02:28,061 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:02:28, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:32,736 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:02:32,736 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:02:33,171 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:02:33,172 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:02:33,172 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:02:33,172 - zigbee_toString: [sensor: 101, date:2022-09-15 10:02:33, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:33,199 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:02:33, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:33,199 - Message sending failed!
+2022-09-15 10:02:33,199 - The exception information is：客户机未连接
+2022-09-15 10:02:33,199 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:02:33, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:33,238 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:33,239 - Get the data of the lora end-device and start parsing
+2022-09-15 10:02:33,239 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:33,239 - iHum:146
+2022-09-15 10:02:33,240 - lora_sensor date:[sensor: 1, date:2022-09-15 10:02:33, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:33,260 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:02:33, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:33,260 - Message sending failed!
+2022-09-15 10:02:33,260 - The exception information is：客户机未连接
+2022-09-15 10:02:33,260 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:02:33, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:38,373 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:02:38,374 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:02:38,374 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:02:38,375 - zigbee_toString: [sensor: 101, date:2022-09-15 10:02:38, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:38,439 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:38,440 - Get the data of the lora end-device and start parsing
+2022-09-15 10:02:38,440 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:38,440 - iHum:146
+2022-09-15 10:02:38,440 - lora_sensor date:[sensor: 1, date:2022-09-15 10:02:38, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:38,481 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:02:38, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:38,481 - Message sending failed!
+2022-09-15 10:02:38,481 - The exception information is：客户机未连接
+2022-09-15 10:02:38,481 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:02:38, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:38,498 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:02:38, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:38,498 - Message sending failed!
+2022-09-15 10:02:38,498 - The exception information is：客户机未连接
+2022-09-15 10:02:38,498 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:02:38, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:42,737 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:02:42,737 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:02:43,573 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:02:43,575 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:02:43,575 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:02:43,575 - zigbee_toString: [sensor: 101, date:2022-09-15 10:02:43, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:43,640 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:43,642 - Get the data of the lora end-device and start parsing
+2022-09-15 10:02:43,642 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:43,642 - iHum:146
+2022-09-15 10:02:43,642 - lora_sensor date:[sensor: 1, date:2022-09-15 10:02:43, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:43,659 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:02:43, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:43,659 - Message sending failed!
+2022-09-15 10:02:43,659 - The exception information is：客户机未连接
+2022-09-15 10:02:43,659 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:02:43, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:43,692 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:02:43, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:43,693 - Message sending failed!
+2022-09-15 10:02:43,693 - The exception information is：客户机未连接
+2022-09-15 10:02:43,693 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:02:43, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:48,775 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:02:48,777 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:02:48,777 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:02:48,778 - zigbee_toString: [sensor: 101, date:2022-09-15 10:02:48, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:48,798 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:02:48, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:48,798 - Message sending failed!
+2022-09-15 10:02:48,799 - The exception information is：客户机未连接
+2022-09-15 10:02:48,799 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:02:48, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:48,841 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:48,856 - Get the data of the lora end-device and start parsing
+2022-09-15 10:02:48,857 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:48,858 - iHum:146
+2022-09-15 10:02:48,858 - lora_sensor date:[sensor: 1, date:2022-09-15 10:02:48, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:48,871 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:02:48, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:48,871 - Message sending failed!
+2022-09-15 10:02:48,871 - The exception information is：客户机未连接
+2022-09-15 10:02:48,871 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:02:48, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:52,738 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:02:52,740 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:02:53,973 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:02:53,975 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:02:53,975 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:02:53,975 - zigbee_toString: [sensor: 101, date:2022-09-15 10:02:53, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:54,041 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:54,042 - Get the data of the lora end-device and start parsing
+2022-09-15 10:02:54,042 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:54,042 - iHum:146
+2022-09-15 10:02:54,042 - lora_sensor date:[sensor: 1, date:2022-09-15 10:02:54, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:54,072 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:02:53, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:54,072 - Message sending failed!
+2022-09-15 10:02:54,072 - The exception information is：客户机未连接
+2022-09-15 10:02:54,072 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:02:53, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:54,178 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:02:54, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:54,178 - Message sending failed!
+2022-09-15 10:02:54,178 - The exception information is：客户机未连接
+2022-09-15 10:02:54,178 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:02:54, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:59,174 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:02:59,174 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:02:59,175 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:02:59,175 - zigbee_toString: [sensor: 101, date:2022-09-15 10:02:59, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:59,196 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:02:59, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:59,196 - Message sending failed!
+2022-09-15 10:02:59,196 - The exception information is：客户机未连接
+2022-09-15 10:02:59,196 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:02:59, temperature:11.0, humidity: 11.0]
+2022-09-15 10:02:59,242 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:59,242 - Get the data of the lora end-device and start parsing
+2022-09-15 10:02:59,243 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:02:59,243 - iHum:146
+2022-09-15 10:02:59,243 - lora_sensor date:[sensor: 1, date:2022-09-15 10:02:59, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:59,256 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:02:59, temperature:0.1, humidity: 65.8]
+2022-09-15 10:02:59,256 - Message sending failed!
+2022-09-15 10:02:59,257 - The exception information is：客户机未连接
+2022-09-15 10:02:59,257 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:02:59, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:02,740 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:03:02,740 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:03:04,377 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:03:04,379 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:03:04,379 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:03:04,379 - zigbee_toString: [sensor: 101, date:2022-09-15 10:03:04, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:04,443 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:04,445 - Get the data of the lora end-device and start parsing
+2022-09-15 10:03:04,446 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:04,446 - iHum:146
+2022-09-15 10:03:04,446 - lora_sensor date:[sensor: 1, date:2022-09-15 10:03:04, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:04,563 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:03:04, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:04,564 - Message sending failed!
+2022-09-15 10:03:04,564 - The exception information is：客户机未连接
+2022-09-15 10:03:04,564 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:03:04, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:04,632 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:03:04, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:04,632 - Message sending failed!
+2022-09-15 10:03:04,632 - The exception information is：客户机未连接
+2022-09-15 10:03:04,632 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:03:04, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:09,577 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:03:09,579 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:03:09,579 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:03:09,579 - zigbee_toString: [sensor: 101, date:2022-09-15 10:03:09, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:09,644 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:09,646 - Get the data of the lora end-device and start parsing
+2022-09-15 10:03:09,646 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:09,647 - iHum:146
+2022-09-15 10:03:09,647 - lora_sensor date:[sensor: 1, date:2022-09-15 10:03:09, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:09,687 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:03:09, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:09,688 - Message sending failed!
+2022-09-15 10:03:09,688 - The exception information is：客户机未连接
+2022-09-15 10:03:09,688 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:03:09, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:09,705 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:03:09, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:09,705 - Message sending failed!
+2022-09-15 10:03:09,705 - The exception information is：客户机未连接
+2022-09-15 10:03:09,705 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:03:09, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:12,741 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:03:12,741 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:03:14,778 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:03:14,780 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:03:14,780 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:03:14,780 - zigbee_toString: [sensor: 101, date:2022-09-15 10:03:14, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:14,845 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:14,847 - Get the data of the lora end-device and start parsing
+2022-09-15 10:03:14,847 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:14,847 - iHum:146
+2022-09-15 10:03:14,847 - lora_sensor date:[sensor: 1, date:2022-09-15 10:03:14, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:14,894 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:03:14, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:14,894 - Message sending failed!
+2022-09-15 10:03:14,894 - The exception information is：客户机未连接
+2022-09-15 10:03:14,894 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:03:14, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:14,926 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:03:14, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:14,926 - Message sending failed!
+2022-09-15 10:03:14,926 - The exception information is：客户机未连接
+2022-09-15 10:03:14,926 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:03:14, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:19,980 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:03:19,981 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:03:19,981 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:03:19,981 - zigbee_toString: [sensor: 101, date:2022-09-15 10:03:19, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:20,010 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:03:19, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:20,010 - Message sending failed!
+2022-09-15 10:03:20,010 - The exception information is：客户机未连接
+2022-09-15 10:03:20,010 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:03:19, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:20,046 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:20,047 - Get the data of the lora end-device and start parsing
+2022-09-15 10:03:20,047 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:20,047 - iHum:146
+2022-09-15 10:03:20,047 - lora_sensor date:[sensor: 1, date:2022-09-15 10:03:20, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:20,059 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:03:20, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:20,060 - Message sending failed!
+2022-09-15 10:03:20,060 - The exception information is：客户机未连接
+2022-09-15 10:03:20,060 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:03:20, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:22,742 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:03:22,742 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:03:25,179 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:03:25,179 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:03:25,180 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:03:25,180 - zigbee_toString: [sensor: 101, date:2022-09-15 10:03:25, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:25,248 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:25,249 - Get the data of the lora end-device and start parsing
+2022-09-15 10:03:25,249 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:25,249 - iHum:146
+2022-09-15 10:03:25,249 - lora_sensor date:[sensor: 1, date:2022-09-15 10:03:25, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:25,341 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:03:25, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:25,341 - Message sending failed!
+2022-09-15 10:03:25,341 - The exception information is：客户机未连接
+2022-09-15 10:03:25,341 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:03:25, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:25,358 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:03:25, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:25,358 - Message sending failed!
+2022-09-15 10:03:25,359 - The exception information is：客户机未连接
+2022-09-15 10:03:25,359 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:03:25, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:30,380 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:03:30,382 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:03:30,382 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:03:30,383 - zigbee_toString: [sensor: 101, date:2022-09-15 10:03:30, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:30,449 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:30,450 - Get the data of the lora end-device and start parsing
+2022-09-15 10:03:30,450 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:30,450 - iHum:146
+2022-09-15 10:03:30,450 - lora_sensor date:[sensor: 1, date:2022-09-15 10:03:30, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:30,491 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:03:30, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:30,491 - Message sending failed!
+2022-09-15 10:03:30,491 - The exception information is：客户机未连接
+2022-09-15 10:03:30,491 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:03:30, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:30,508 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:03:30, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:30,509 - Message sending failed!
+2022-09-15 10:03:30,509 - The exception information is：客户机未连接
+2022-09-15 10:03:30,509 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:03:30, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:32,743 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:03:32,743 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:03:35,582 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:03:35,584 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:03:35,584 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:03:35,584 - zigbee_toString: [sensor: 101, date:2022-09-15 10:03:35, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:35,609 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:03:35, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:35,609 - Message sending failed!
+2022-09-15 10:03:35,609 - The exception information is：客户机未连接
+2022-09-15 10:03:35,609 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:03:35, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:35,650 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:35,652 - Get the data of the lora end-device and start parsing
+2022-09-15 10:03:35,652 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:35,652 - iHum:146
+2022-09-15 10:03:35,652 - lora_sensor date:[sensor: 1, date:2022-09-15 10:03:35, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:35,963 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:03:35, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:35,963 - Message sending failed!
+2022-09-15 10:03:35,963 - The exception information is：客户机未连接
+2022-09-15 10:03:35,963 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:03:35, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:40,781 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:03:40,782 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:03:40,782 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:03:40,782 - zigbee_toString: [sensor: 101, date:2022-09-15 10:03:40, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:40,851 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:40,852 - Get the data of the lora end-device and start parsing
+2022-09-15 10:03:40,852 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:40,852 - iHum:146
+2022-09-15 10:03:40,852 - lora_sensor date:[sensor: 1, date:2022-09-15 10:03:40, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:41,191 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:03:40, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:41,191 - Message sending failed!
+2022-09-15 10:03:41,191 - The exception information is：客户机未连接
+2022-09-15 10:03:41,191 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:03:40, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:41,231 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:03:40, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:41,231 - Message sending failed!
+2022-09-15 10:03:41,231 - The exception information is：客户机未连接
+2022-09-15 10:03:41,231 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:03:40, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:42,743 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:03:42,743 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:03:45,983 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:03:45,985 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:03:45,985 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:03:45,985 - zigbee_toString: [sensor: 101, date:2022-09-15 10:03:45, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:46,052 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:46,054 - Get the data of the lora end-device and start parsing
+2022-09-15 10:03:46,054 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:46,054 - iHum:146
+2022-09-15 10:03:46,054 - lora_sensor date:[sensor: 1, date:2022-09-15 10:03:46, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:46,095 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:03:45, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:46,095 - Message sending failed!
+2022-09-15 10:03:46,095 - The exception information is：客户机未连接
+2022-09-15 10:03:46,095 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:03:45, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:46,111 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:03:46, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:46,111 - Message sending failed!
+2022-09-15 10:03:46,112 - The exception information is：客户机未连接
+2022-09-15 10:03:46,112 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:03:46, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:51,185 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:03:51,187 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:03:51,187 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:03:51,187 - zigbee_toString: [sensor: 101, date:2022-09-15 10:03:51, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:51,253 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:51,254 - Get the data of the lora end-device and start parsing
+2022-09-15 10:03:51,254 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:51,254 - iHum:146
+2022-09-15 10:03:51,254 - lora_sensor date:[sensor: 1, date:2022-09-15 10:03:51, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:51,300 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:03:51, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:51,300 - Message sending failed!
+2022-09-15 10:03:51,300 - The exception information is：客户机未连接
+2022-09-15 10:03:51,300 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:03:51, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:51,316 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:03:51, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:51,316 - Message sending failed!
+2022-09-15 10:03:51,316 - The exception information is：客户机未连接
+2022-09-15 10:03:51,316 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:03:51, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:52,743 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:03:52,743 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:03:56,386 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:03:56,386 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:03:56,386 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:03:56,386 - zigbee_toString: [sensor: 101, date:2022-09-15 10:03:56, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:56,453 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:56,455 - Get the data of the lora end-device and start parsing
+2022-09-15 10:03:56,455 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:03:56,455 - iHum:146
+2022-09-15 10:03:56,455 - lora_sensor date:[sensor: 1, date:2022-09-15 10:03:56, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:56,582 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:03:56, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:56,582 - Message sending failed!
+2022-09-15 10:03:56,582 - The exception information is：客户机未连接
+2022-09-15 10:03:56,582 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:03:56, temperature:11.0, humidity: 11.0]
+2022-09-15 10:03:56,653 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:03:56, temperature:0.1, humidity: 65.8]
+2022-09-15 10:03:56,653 - Message sending failed!
+2022-09-15 10:03:56,653 - The exception information is：客户机未连接
+2022-09-15 10:03:56,654 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:03:56, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:01,586 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:04:01,588 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:04:01,588 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:04:01,588 - zigbee_toString: [sensor: 101, date:2022-09-15 10:04:01, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:01,611 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:04:01, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:01,611 - Message sending failed!
+2022-09-15 10:04:01,611 - The exception information is：客户机未连接
+2022-09-15 10:04:01,611 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:04:01, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:01,655 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:01,656 - Get the data of the lora end-device and start parsing
+2022-09-15 10:04:01,656 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:01,656 - iHum:146
+2022-09-15 10:04:01,656 - lora_sensor date:[sensor: 1, date:2022-09-15 10:04:01, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:01,670 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:04:01, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:01,671 - Message sending failed!
+2022-09-15 10:04:01,671 - The exception information is：客户机未连接
+2022-09-15 10:04:01,671 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:04:01, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:02,743 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:04:02,743 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:04:06,786 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:04:06,786 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:04:06,786 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:04:06,786 - zigbee_toString: [sensor: 101, date:2022-09-15 10:04:06, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:06,855 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:06,857 - Get the data of the lora end-device and start parsing
+2022-09-15 10:04:06,857 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:06,857 - iHum:146
+2022-09-15 10:04:06,857 - lora_sensor date:[sensor: 1, date:2022-09-15 10:04:06, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:06,898 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:04:06, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:06,898 - Message sending failed!
+2022-09-15 10:04:06,898 - The exception information is：客户机未连接
+2022-09-15 10:04:06,898 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:04:06, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:06,915 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:04:06, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:06,915 - Message sending failed!
+2022-09-15 10:04:06,915 - The exception information is：客户机未连接
+2022-09-15 10:04:06,915 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:04:06, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:11,989 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:04:11,991 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:04:11,991 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:04:11,991 - zigbee_toString: [sensor: 101, date:2022-09-15 10:04:11, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:12,057 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:12,058 - Get the data of the lora end-device and start parsing
+2022-09-15 10:04:12,058 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:12,058 - iHum:146
+2022-09-15 10:04:12,058 - lora_sensor date:[sensor: 1, date:2022-09-15 10:04:12, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:12,098 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:04:11, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:12,098 - Message sending failed!
+2022-09-15 10:04:12,098 - The exception information is：客户机未连接
+2022-09-15 10:04:12,098 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:04:11, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:12,115 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:04:12, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:12,115 - Message sending failed!
+2022-09-15 10:04:12,115 - The exception information is：客户机未连接
+2022-09-15 10:04:12,115 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:04:12, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:12,744 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:04:12,744 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:04:17,189 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:04:17,191 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:04:17,191 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:04:17,191 - zigbee_toString: [sensor: 101, date:2022-09-15 10:04:17, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:17,258 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:17,260 - Get the data of the lora end-device and start parsing
+2022-09-15 10:04:17,260 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:17,260 - iHum:146
+2022-09-15 10:04:17,260 - lora_sensor date:[sensor: 1, date:2022-09-15 10:04:17, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:17,352 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:04:17, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:17,353 - Message sending failed!
+2022-09-15 10:04:17,353 - The exception information is：客户机未连接
+2022-09-15 10:04:17,353 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:04:17, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:17,369 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:04:17, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:17,369 - Message sending failed!
+2022-09-15 10:04:17,369 - The exception information is：客户机未连接
+2022-09-15 10:04:17,369 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:04:17, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:22,392 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:04:22,394 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:04:22,394 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:04:22,394 - zigbee_toString: [sensor: 101, date:2022-09-15 10:04:22, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:22,459 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:22,461 - Get the data of the lora end-device and start parsing
+2022-09-15 10:04:22,461 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:22,461 - iHum:146
+2022-09-15 10:04:22,461 - lora_sensor date:[sensor: 1, date:2022-09-15 10:04:22, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:22,508 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:04:22, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:22,508 - Message sending failed!
+2022-09-15 10:04:22,508 - The exception information is：客户机未连接
+2022-09-15 10:04:22,508 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:04:22, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:22,526 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:04:22, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:22,527 - Message sending failed!
+2022-09-15 10:04:22,527 - The exception information is：客户机未连接
+2022-09-15 10:04:22,527 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:04:22, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:22,761 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:04:22,761 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:04:27,593 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:04:27,595 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:04:27,595 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:04:27,595 - zigbee_toString: [sensor: 101, date:2022-09-15 10:04:27, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:27,660 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:27,662 - Get the data of the lora end-device and start parsing
+2022-09-15 10:04:27,662 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:27,662 - iHum:146
+2022-09-15 10:04:27,662 - lora_sensor date:[sensor: 1, date:2022-09-15 10:04:27, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:27,703 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:04:27, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:27,704 - Message sending failed!
+2022-09-15 10:04:27,704 - The exception information is：客户机未连接
+2022-09-15 10:04:27,704 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:04:27, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:27,720 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:04:27, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:27,720 - Message sending failed!
+2022-09-15 10:04:27,720 - The exception information is：客户机未连接
+2022-09-15 10:04:27,720 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:04:27, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:32,761 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:04:32,761 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:04:32,792 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:04:32,793 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:04:32,793 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:04:32,793 - zigbee_toString: [sensor: 101, date:2022-09-15 10:04:32, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:32,861 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:32,861 - Get the data of the lora end-device and start parsing
+2022-09-15 10:04:32,861 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:32,862 - iHum:146
+2022-09-15 10:04:32,862 - lora_sensor date:[sensor: 1, date:2022-09-15 10:04:32, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:32,907 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:04:32, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:32,907 - Message sending failed!
+2022-09-15 10:04:32,907 - The exception information is：客户机未连接
+2022-09-15 10:04:32,907 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:04:32, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:32,925 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:04:32, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:32,925 - Message sending failed!
+2022-09-15 10:04:32,925 - The exception information is：客户机未连接
+2022-09-15 10:04:32,925 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:04:32, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:37,995 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:04:37,997 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:04:37,997 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:04:37,997 - zigbee_toString: [sensor: 101, date:2022-09-15 10:04:37, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:38,061 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:38,108 - Get the data of the lora end-device and start parsing
+2022-09-15 10:04:38,108 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:38,108 - iHum:146
+2022-09-15 10:04:38,108 - lora_sensor date:[sensor: 1, date:2022-09-15 10:04:38, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:38,122 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:04:37, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:38,123 - Message sending failed!
+2022-09-15 10:04:38,123 - The exception information is：客户机未连接
+2022-09-15 10:04:38,123 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:04:37, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:38,140 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:04:38, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:38,141 - Message sending failed!
+2022-09-15 10:04:38,141 - The exception information is：客户机未连接
+2022-09-15 10:04:38,141 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:04:38, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:42,762 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:04:42,762 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:04:43,196 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:04:43,198 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:04:43,198 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:04:43,198 - zigbee_toString: [sensor: 101, date:2022-09-15 10:04:43, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:43,307 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:43,308 - Get the data of the lora end-device and start parsing
+2022-09-15 10:04:43,309 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:43,309 - iHum:146
+2022-09-15 10:04:43,309 - lora_sensor date:[sensor: 1, date:2022-09-15 10:04:43, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:43,313 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:04:43, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:43,313 - Message sending failed!
+2022-09-15 10:04:43,313 - The exception information is：客户机未连接
+2022-09-15 10:04:43,313 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:04:43, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:43,329 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:04:43, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:43,329 - Message sending failed!
+2022-09-15 10:04:43,329 - The exception information is：客户机未连接
+2022-09-15 10:04:43,329 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:04:43, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:48,397 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:04:48,397 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:04:48,397 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:04:48,397 - zigbee_toString: [sensor: 101, date:2022-09-15 10:04:48, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:48,417 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:04:48, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:48,417 - Message sending failed!
+2022-09-15 10:04:48,417 - The exception information is：客户机未连接
+2022-09-15 10:04:48,417 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:04:48, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:48,508 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:48,509 - Get the data of the lora end-device and start parsing
+2022-09-15 10:04:48,510 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:48,510 - iHum:146
+2022-09-15 10:04:48,510 - lora_sensor date:[sensor: 1, date:2022-09-15 10:04:48, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:48,554 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:04:48, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:48,559 - Message sending failed!
+2022-09-15 10:04:48,559 - The exception information is：客户机未连接
+2022-09-15 10:04:48,559 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:04:48, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:52,762 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:04:52,762 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:04:53,597 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:04:53,598 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:04:53,598 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:04:53,599 - zigbee_toString: [sensor: 101, date:2022-09-15 10:04:53, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:53,618 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:04:53, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:53,618 - Message sending failed!
+2022-09-15 10:04:53,618 - The exception information is：客户机未连接
+2022-09-15 10:04:53,618 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:04:53, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:53,754 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:53,756 - Get the data of the lora end-device and start parsing
+2022-09-15 10:04:53,756 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:53,756 - iHum:146
+2022-09-15 10:04:53,756 - lora_sensor date:[sensor: 1, date:2022-09-15 10:04:53, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:53,778 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:04:53, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:53,778 - Message sending failed!
+2022-09-15 10:04:53,778 - The exception information is：客户机未连接
+2022-09-15 10:04:53,778 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:04:53, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:58,799 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:04:58,801 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:04:58,801 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:04:58,801 - zigbee_toString: [sensor: 101, date:2022-09-15 10:04:58, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:58,911 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:04:58, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:58,912 - Message sending failed!
+2022-09-15 10:04:58,912 - The exception information is：客户机未连接
+2022-09-15 10:04:58,912 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:04:58, temperature:11.0, humidity: 11.0]
+2022-09-15 10:04:58,954 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:58,956 - Get the data of the lora end-device and start parsing
+2022-09-15 10:04:58,956 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:04:58,956 - iHum:146
+2022-09-15 10:04:58,956 - lora_sensor date:[sensor: 1, date:2022-09-15 10:04:58, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:58,971 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:04:58, temperature:0.1, humidity: 65.8]
+2022-09-15 10:04:58,971 - Message sending failed!
+2022-09-15 10:04:58,971 - The exception information is：客户机未连接
+2022-09-15 10:04:58,971 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:04:58, temperature:0.1, humidity: 65.8]
+2022-09-15 10:05:02,762 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:05:02,762 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:05:03,999 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:05:04,000 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:05:04,000 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:05:04,000 - zigbee_toString: [sensor: 101, date:2022-09-15 10:05:04, temperature:11.0, humidity: 11.0]
+2022-09-15 10:05:04,022 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:05:04, temperature:11.0, humidity: 11.0]
+2022-09-15 10:05:04,022 - Message sending failed!
+2022-09-15 10:05:04,022 - The exception information is：客户机未连接
+2022-09-15 10:05:04,022 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:05:04, temperature:11.0, humidity: 11.0]
+2022-09-15 10:05:04,156 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:05:04,157 - Get the data of the lora end-device and start parsing
+2022-09-15 10:05:04,157 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:05:04,157 - iHum:146
+2022-09-15 10:05:04,157 - lora_sensor date:[sensor: 1, date:2022-09-15 10:05:04, temperature:0.1, humidity: 65.8]
+2022-09-15 10:05:04,183 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:05:04, temperature:0.1, humidity: 65.8]
+2022-09-15 10:05:04,183 - Message sending failed!
+2022-09-15 10:05:04,183 - The exception information is：客户机未连接
+2022-09-15 10:05:04,183 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:05:04, temperature:0.1, humidity: 65.8]
+2022-09-15 10:05:09,201 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:05:09,203 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:05:09,203 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:05:09,203 - zigbee_toString: [sensor: 101, date:2022-09-15 10:05:09, temperature:11.0, humidity: 11.0]
+2022-09-15 10:05:09,222 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:05:09, temperature:11.0, humidity: 11.0]
+2022-09-15 10:05:09,223 - Message sending failed!
+2022-09-15 10:05:09,223 - The exception information is：客户机未连接
+2022-09-15 10:05:09,223 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:05:09, temperature:11.0, humidity: 11.0]
+2022-09-15 10:05:09,357 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:05:09,359 - Get the data of the lora end-device and start parsing
+2022-09-15 10:05:09,361 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:05:09,361 - iHum:146
+2022-09-15 10:05:09,361 - lora_sensor date:[sensor: 1, date:2022-09-15 10:05:09, temperature:0.1, humidity: 65.8]
+2022-09-15 10:05:09,381 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:05:09, temperature:0.1, humidity: 65.8]
+2022-09-15 10:05:09,382 - Message sending failed!
+2022-09-15 10:05:09,382 - The exception information is：客户机未连接
+2022-09-15 10:05:09,382 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:05:09, temperature:0.1, humidity: 65.8]
+2022-09-15 10:05:12,783 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:05:12,783 - lora GateWay send request frame to LoRa end-device，start
+2022-09-15 10:05:14,439 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:05:14,440 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:05:14,440 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:05:14,440 - zigbee_toString: [sensor: 101, date:2022-09-15 10:05:14, temperature:11.0, humidity: 11.0]
+2022-09-15 10:05:14,558 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:05:14, temperature:11.0, humidity: 11.0]
+2022-09-15 10:05:14,558 - Message sending failed!
+2022-09-15 10:05:14,558 - The exception information is：客户机未连接
+2022-09-15 10:05:14,558 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:05:14, temperature:11.0, humidity: 11.0]
+2022-09-15 10:05:14,572 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:05:14,604 - Get the data of the lora end-device and start parsing
+2022-09-15 10:05:14,604 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:05:14,604 - iHum:146
+2022-09-15 10:05:14,604 - lora_sensor date:[sensor: 1, date:2022-09-15 10:05:14, temperature:0.1, humidity: 65.8]
+2022-09-15 10:05:14,619 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:05:14, temperature:0.1, humidity: 65.8]
+2022-09-15 10:05:14,619 - Message sending failed!
+2022-09-15 10:05:14,619 - The exception information is：客户机未连接
+2022-09-15 10:05:14,619 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:05:14, temperature:0.1, humidity: 65.8]
+2022-09-15 10:05:19,639 - Get the data of the zigbee end-device and start parsing
+2022-09-15 10:05:19,639 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2022-09-15 10:05:19,639 - zigbeeStr:END1 temperture:11 humidity:11
+
+2022-09-15 10:05:19,639 - zigbee_toString: [sensor: 101, date:2022-09-15 10:05:19, temperature:11.0, humidity: 11.0]
+2022-09-15 10:05:19,748 - MySQLEventHandler onEvent: [sensor: 101, date:2022-09-15 10:05:19, temperature:11.0, humidity: 11.0]
+2022-09-15 10:05:19,748 - Message sending failed!
+2022-09-15 10:05:19,749 - The exception information is：客户机未连接
+2022-09-15 10:05:19,749 - MQTTEventHandler MQTT:[sensor: 101, date:2022-09-15 10:05:19, temperature:11.0, humidity: 11.0]
+2022-09-15 10:05:19,792 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:05:19,794 - Get the data of the lora end-device and start parsing
+2022-09-15 10:05:19,795 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-09-15 10:05:19,795 - iHum:146
+2022-09-15 10:05:19,795 - lora_sensor date:[sensor: 1, date:2022-09-15 10:05:19, temperature:0.1, humidity: 65.8]
+2022-09-15 10:05:19,809 - MySQLEventHandler onEvent: [sensor: 1, date:2022-09-15 10:05:19, temperature:0.1, humidity: 65.8]
+2022-09-15 10:05:19,809 - Message sending failed!
+2022-09-15 10:05:19,809 - The exception information is：客户机未连接
+2022-09-15 10:05:19,809 - MQTTEventHandler MQTT:[sensor: 1, date:2022-09-15 10:05:19, temperature:0.1, humidity: 65.8]
+2022-09-15 10:05:22,784 - lora GateWay send request frame to LoRa end-device，over
+2022-09-15 10:05:22,784 - lora GateWay send request frame to LoRa end-device，start
