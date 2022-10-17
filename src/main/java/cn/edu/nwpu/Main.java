@@ -48,12 +48,12 @@ public class Main {
             loRaSPortOp = new SerialPortOperator(queueHelper, DEVICE_TYPE_LORA, loRaSerialPort);
             loRaSPortOp.addSerialPortListener(loRaPortName);
 
-            while (true) {
-                log.info("lora GateWay send request frame to LoRa end-device，start");
-                Thread.sleep(10000);
-                SerialPortManager.sendToPort(loRaSerialPort, order);
-                log.info("lora GateWay send request frame to LoRa end-device，over");
-            }
+//            while (true) {
+//                log.info("lora GateWay send request frame to LoRa end-device,start");
+//                Thread.sleep(10000);
+//                SerialPortManager.sendToPort(loRaSerialPort, order);
+//                log.info("lora GateWay send request frame to LoRa end-device,over,结束");
+//            }
         }catch(Exception e){
             e.printStackTrace();
         }

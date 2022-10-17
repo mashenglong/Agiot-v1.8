@@ -48,7 +48,7 @@ public class SerialPortOperator {
                 byte[] data = null;
                 String serialNamePrefix = "";
                 PropertiesUtil com = new PropertiesUtil("com");
-                //Used it to distinguish whether it is running on windows or Ubuntu
+                //Used it to distinguish whether it is running on Windows or Ubuntu
                 if (System.getProperty("os.name").contains("Windows")) {
                     serialNamePrefix = "//./";
                 }
