@@ -1,0 +1,719 @@
+2023-03-31 13:03:48,874 - SerialPort COM8 is opening
+
+2023-03-31 13:03:48,899 - SerialPort COM2 is opening
+
+2023-03-31 13:03:57,075 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:03:57,077 - reading serial port error  
+2023-03-31 13:03:57,098 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:03:57,099 - reading serial port error  
+2023-03-31 13:03:57,101 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:03:57,101 - reading serial port error  
+2023-03-31 13:03:57,111 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:03:57,112 - reading serial port error  
+2023-03-31 13:03:57,114 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:06,542 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:06,542 - reading serial port error  
+2023-03-31 13:04:06,557 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:06,558 - reading serial port error  
+2023-03-31 13:04:06,568 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:06,569 - reading serial port error  
+2023-03-31 13:04:06,580 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:06,581 - reading serial port error  
+2023-03-31 13:04:06,584 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:16,012 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:16,013 - reading serial port error  
+2023-03-31 13:04:16,027 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:16,028 - reading serial port error  
+2023-03-31 13:04:16,038 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:16,038 - reading serial port error  
+2023-03-31 13:04:16,050 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:16,050 - reading serial port error  
+2023-03-31 13:04:16,053 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:25,479 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:25,480 - reading serial port error  
+2023-03-31 13:04:25,502 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:25,502 - reading serial port error  
+2023-03-31 13:04:25,505 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:25,505 - reading serial port error  
+2023-03-31 13:04:25,519 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:25,519 - reading serial port error  
+2023-03-31 13:04:34,952 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:34,952 - reading serial port error  
+2023-03-31 13:04:34,965 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:34,965 - reading serial port error  
+2023-03-31 13:04:34,977 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:34,977 - reading serial port error  
+2023-03-31 13:04:34,988 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:34,988 - reading serial port error  
+2023-03-31 13:04:34,991 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:37,737 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:37,804 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:37,872 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:37,939 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:38,009 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:38,078 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:38,145 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:38,215 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:38,281 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:38,348 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:38,416 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:38,482 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:38,550 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:38,615 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:38,685 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:38,755 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:38,827 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:38,901 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:38,968 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:39,040 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:39,107 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:39,174 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:39,247 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:39,314 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:39,381 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:39,448 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:39,523 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:39,590 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:39,657 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:39,728 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:39,795 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:39,862 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:39,929 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:39,996 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:40,063 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:40,130 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:40,197 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:40,264 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:40,333 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:40,403 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:40,470 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:40,537 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:40,603 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:40,670 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:40,737 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:40,806 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:40,873 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:40,940 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:41,006 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:41,073 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:41,140 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:41,207 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:41,274 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:41,341 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:41,408 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:41,475 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:41,543 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:41,610 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:41,677 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:41,744 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:41,811 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:41,878 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:41,945 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:42,013 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:42,080 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:42,152 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:42,219 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:42,286 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:42,354 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:42,421 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:42,489 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:42,559 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:42,627 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:42,694 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:42,762 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:42,829 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:42,896 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:42,963 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:43,031 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:43,098 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:43,165 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:43,232 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:43,299 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:43,367 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:43,434 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:43,501 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:43,569 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:43,636 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:43,704 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:43,771 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:43,838 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:43,906 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:43,973 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:44,041 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:44,109 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:44,176 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:44,243 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:44,310 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:44,380 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:44,448 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:44,517 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:44,585 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:44,653 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:44,720 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:44,787 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:44,854 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:44,921 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:44,986 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:45,053 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:45,120 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:45,187 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:45,254 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:45,321 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:04:45,388 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:10:52,814 - SerialPort COM15 is opening
+
+2023-03-31 13:10:52,820 - SerialPort COM8 is opening
+
+2023-03-31 13:10:59,686 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:10:59,687 - reading serial port error  
+2023-03-31 13:10:59,708 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:10:59,709 - reading serial port error  
+2023-03-31 13:10:59,711 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:10:59,712 - reading serial port error  
+2023-03-31 13:10:59,724 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:10:59,725 - reading serial port error  
+2023-03-31 13:11:15,650 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:11:15,651 - reading serial port error  
+2023-03-31 13:11:15,663 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:11:15,663 - reading serial port error  
+2023-03-31 13:11:15,676 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:11:15,676 - reading serial port error  
+2023-03-31 13:11:15,698 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:11:15,698 - reading serial port error  
+2023-03-31 13:11:31,215 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:31,281 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:31,350 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:31,419 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:31,486 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:31,554 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:31,614 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:11:31,615 - reading serial port error  
+2023-03-31 13:11:31,617 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:31,630 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:11:31,630 - reading serial port error  
+2023-03-31 13:11:31,640 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:11:31,641 - reading serial port error  
+2023-03-31 13:11:31,652 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:11:31,653 - reading serial port error  
+2023-03-31 13:11:31,655 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:11:31,686 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:31,755 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:31,821 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:31,888 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:31,954 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:32,019 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:32,089 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:32,157 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:32,224 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:32,291 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:32,358 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:32,421 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:32,488 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:32,555 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:32,622 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:32,689 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:32,756 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:32,823 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:32,890 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:32,957 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:33,024 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:33,091 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:33,158 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:33,225 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:33,292 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:33,359 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:33,430 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:33,497 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:33,564 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:33,631 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:33,699 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:33,766 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:33,834 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:33,902 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:33,968 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:34,035 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:34,102 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:34,169 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:34,236 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:34,303 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:34,370 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:34,437 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:34,504 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:34,571 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:34,638 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:34,705 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:34,775 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:34,842 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:34,909 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:34,977 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:35,044 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:35,111 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:35,177 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:35,244 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:35,311 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:35,378 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:35,445 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:35,512 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:35,579 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:35,646 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:35,713 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:35,780 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:35,847 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:35,915 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:35,981 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:36,048 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:36,115 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:36,182 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:36,249 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:36,316 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:36,383 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:36,450 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:36,517 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:36,584 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:36,651 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:36,725 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:36,791 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:36,858 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:36,925 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:36,991 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:37,058 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:37,125 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:37,192 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:37,259 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:37,326 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:37,393 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:37,464 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:37,531 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:37,598 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:37,665 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:37,732 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:37,799 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:37,866 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:37,935 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:38,002 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:38,077 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:38,144 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:38,211 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:38,278 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:38,345 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:38,412 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:38,478 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:38,545 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:38,612 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:38,679 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:38,748 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:38,815 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:38,882 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:38,949 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:39,018 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:39,085 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:39,152 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:39,219 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:39,286 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:39,353 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:39,419 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:39,486 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:39,553 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:39,620 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:39,687 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:39,754 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:39,821 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:39,888 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:39,954 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:40,021 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:40,088 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:40,155 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:40,222 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:40,296 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:40,363 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:40,430 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:40,497 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:40,564 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:40,631 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:40,698 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:40,765 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:40,832 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:40,899 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:40,965 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:41,032 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:41,099 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:41,166 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:41,236 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:41,303 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:41,370 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:41,437 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:41,504 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:41,571 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:41,638 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:41,705 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:41,772 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:41,841 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:41,908 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:41,975 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:42,042 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:42,109 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:42,176 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:42,243 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:42,312 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:42,379 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:42,446 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:42,515 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:42,582 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:42,649 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:42,715 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:42,782 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:42,849 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:42,916 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:42,984 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:43,051 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:43,118 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:43,186 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:43,253 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:43,320 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:43,385 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:43,455 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:43,524 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:43,591 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:43,659 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:43,726 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:43,792 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:43,859 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:43,926 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:43,993 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:44,061 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:44,134 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:44,201 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:44,268 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:44,335 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:44,402 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:44,468 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:44,537 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:44,603 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:44,670 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:44,737 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:44,804 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:44,869 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:44,937 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:45,003 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:45,073 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:45,140 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:45,207 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:45,277 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:45,344 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:45,412 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:45,479 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:45,546 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:45,613 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:45,680 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:45,747 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:45,814 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:45,881 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:45,948 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:46,018 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:46,085 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:46,152 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:46,219 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:46,286 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:46,352 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:46,418 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:46,484 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:46,551 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:46,619 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:46,686 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:46,753 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:46,820 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:46,887 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:46,954 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:47,020 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:47,087 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:47,154 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:47,221 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:47,288 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:47,356 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:47,421 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:47,488 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:47,555 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:47,579 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:11:47,579 - reading serial port error  
+2023-03-31 13:11:47,593 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:11:47,593 - reading serial port error  
+2023-03-31 13:11:47,605 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:11:47,605 - reading serial port error  
+2023-03-31 13:11:47,623 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:47,626 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:11:47,626 - reading serial port error  
+2023-03-31 13:11:47,690 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:47,757 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:47,823 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:47,889 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:47,956 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:48,022 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:48,088 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:48,154 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:48,225 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:48,293 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:48,361 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:48,428 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:48,495 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:48,562 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:48,629 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:48,696 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:48,763 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:48,836 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:48,905 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:48,971 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:49,038 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:49,105 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:49,172 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:49,239 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:49,306 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:49,373 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:49,440 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:49,507 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:49,574 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:49,641 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:49,712 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:49,779 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:49,846 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:49,913 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:49,978 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:50,045 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:50,112 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:50,179 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:50,246 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:50,313 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:50,382 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:50,449 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:50,516 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:50,583 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:50,650 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:50,717 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:50,784 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:50,851 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:50,918 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:50,984 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:51,051 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:51,118 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:51,185 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:51,252 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:51,319 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:51,386 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:51,453 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:51,520 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:51,587 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:51,654 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:51,721 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:51,788 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:51,855 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:51,922 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:51,989 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:52,056 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:52,123 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:52,190 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:52,257 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:52,324 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:52,391 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:52,457 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:52,524 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:52,591 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:52,658 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:52,725 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:52,792 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:52,859 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:52,926 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:52,993 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:53,060 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:53,127 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:53,194 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:53,261 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:53,328 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:53,395 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:53,462 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:53,529 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:53,596 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:53,663 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:53,730 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:53,797 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:53,864 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:53,931 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:53,997 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:54,065 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:54,132 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:54,199 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:54,267 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:54,334 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:54,401 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:54,468 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:54,535 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:54,602 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:54,671 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:54,738 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:54,805 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:54,872 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:54,939 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:55,006 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:55,073 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:55,140 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:55,207 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:55,274 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:55,341 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:55,408 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:55,475 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:55,542 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:55,609 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:55,677 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:55,744 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:55,813 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:55,881 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:55,947 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:56,015 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:56,083 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:56,151 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:56,218 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:56,285 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:56,352 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:56,424 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:56,491 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:56,558 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:56,625 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:56,692 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:56,760 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:56,827 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:56,894 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:56,960 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:57,027 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:57,094 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:57,161 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:57,230 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:57,297 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:57,364 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:57,431 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:57,498 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:57,565 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:57,632 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:57,699 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:57,766 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:57,833 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:57,902 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:57,975 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:58,043 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:58,110 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:58,177 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:58,244 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:58,311 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:58,379 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:58,445 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:58,512 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:58,581 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:58,648 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:58,716 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:58,783 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:58,850 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:58,917 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:58,984 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:59,051 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:59,120 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:59,187 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:59,254 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:59,322 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:59,388 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:59,454 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:59,521 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:59,589 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:59,656 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:59,723 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:59,790 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:59,857 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:59,924 - Get the data of the lora end-device and start parsing
+2023-03-31 13:11:59,990 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:00,056 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:00,123 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:00,190 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:00,257 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:00,327 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:00,394 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:00,461 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:00,528 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:00,596 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:00,663 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:00,730 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:00,797 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:00,864 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:00,931 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:00,997 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:01,063 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:01,130 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:01,197 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:01,264 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:01,331 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:01,398 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:01,465 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:01,532 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:01,599 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:01,666 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:01,733 - Get the data of the lora end-device and start parsing
+2023-03-31 13:12:01,800 - Get the data of the lora end-device and start parsing
+2023-03-31 13:21:39,882 - SerialPort COM4 is opening
+
+2023-03-31 13:21:39,889 - SerialPort COM2 is opening
+
+2023-03-31 13:21:50,975 - Get the data of the lora end-device and start parsing
+2023-03-31 13:21:50,976 - parse lora data[69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49]
+2023-03-31 13:21:50,976 - iHum:114
+2023-03-31 13:21:50,996 - lora_sensor date:[sensor: 1, date:2023-03-31 13:21:50, temperature:2930.1, humidity: 2981.0]
+2023-03-31 13:21:51,026 - MLog clients using slf4j logging.
+2023-03-31 13:21:51,174 - Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2023-03-31 13:21:51,249 - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1hgeygxavf0jeu31bzfgeb|61c0f5ff, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> 1hgeygxavf0jeu31bzfgeb|61c0f5ff, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1:3306/agiot?serverTimezone=UTC, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 30, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 200, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+2023-03-31 13:21:51,943 - MySQLEventHandler onEvent: [sensor: 1, date:2023-03-31 13:21:50, temperature:2930.1, humidity: 2981.0]
+2023-03-31 13:21:51,959 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@a780cf6
+2023-03-31 13:21:52,022 - MqttConnectionPool Thread:28获取连接:1条
+2023-03-31 13:21:52,108 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 51, 45, 48, 51, 45, 51, 49, 32, 49, 51, 58, 50, 49, 58, 53, 48, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 50, 57, 56, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 50, 57, 51, 48, 46, 49, 125]
+2023-03-31 13:21:52,108 - MQTTEventHandler MQTT:[sensor: 1, date:2023-03-31 13:21:50, temperature:2930.1, humidity: 2981.0]
+2023-03-31 13:21:52,123 - PushCallback deliveryComplete: true
+2023-03-31 13:22:02,429 - Get the data of the zigbee end-device and start parsing
+2023-03-31 13:22:02,429 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2023-03-31 13:22:02,431 - zigbeeStr:END1 temperture:11 humidity:11
+
+2023-03-31 13:22:02,431 - zigbee_toString: [sensor: 101, date:2023-03-31 13:22:02, temperature:11.0, humidity: 11.0]
+2023-03-31 13:22:02,435 - MySQLEventHandler onEvent: [sensor: 101, date:2023-03-31 13:22:02, temperature:11.0, humidity: 11.0]
+2023-03-31 13:22:02,436 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@4255c3fc
+2023-03-31 13:22:02,470 - MqttConnectionPool Thread:23获取连接:1条
+2023-03-31 13:22:02,471 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 51, 45, 48, 51, 45, 51, 49, 32, 49, 51, 58, 50, 50, 58, 48, 50, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2023-03-31 13:22:02,471 - MQTTEventHandler MQTT:[sensor: 101, date:2023-03-31 13:22:02, temperature:11.0, humidity: 11.0]
+2023-03-31 13:22:02,486 - PushCallback deliveryComplete: true
+2023-03-31 16:06:14,470 - SerialPort COM4 is opening
+
+2023-03-31 16:06:14,477 - SerialPort COM2 is opening
+
+2023-03-31 16:06:27,768 - Get the data of the zigbee end-device and start parsing
+2023-03-31 16:06:27,769 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2023-03-31 16:06:27,769 - zigbeeStr:END1 temperture:11 humidity:11
+
+2023-03-31 16:06:27,770 - zigbee_toString: [sensor: 101, date:2023-03-31 16:06:27, temperature:11.0, humidity: 11.0]
+2023-03-31 16:06:27,788 - MLog clients using slf4j logging.
+2023-03-31 16:06:27,927 - Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2023-03-31 16:06:27,995 - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1hgeygxavf6f3si7h1ssi|1d72ea6, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> 1hgeygxavf6f3si7h1ssi|1d72ea6, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1:3306/agiot?serverTimezone=UTC, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 30, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 200, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+2023-03-31 16:06:28,412 - MySQLEventHandler onEvent: [sensor: 101, date:2023-03-31 16:06:27, temperature:11.0, humidity: 11.0]
+2023-03-31 16:06:28,415 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@6d104331
+2023-03-31 16:06:28,476 - MqttConnectionPool Thread:23获取连接:1条
+2023-03-31 16:06:28,528 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 51, 45, 48, 51, 45, 51, 49, 32, 49, 54, 58, 48, 54, 58, 50, 55, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2023-03-31 16:06:28,528 - MQTTEventHandler MQTT:[sensor: 101, date:2023-03-31 16:06:27, temperature:11.0, humidity: 11.0]
+2023-03-31 16:06:28,545 - PushCallback deliveryComplete: true
+2023-03-31 16:51:27,122 - SerialPort COM4 is opening
+
+2023-03-31 16:51:27,128 - SerialPort COM2 is opening
+
+2023-03-31 16:51:31,124 - Get the data of the zigbee end-device and start parsing
+2023-03-31 16:51:31,126 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2023-03-31 16:51:31,127 - zigbeeStr:END1 temperture:11 humidity:11
+
+2023-03-31 16:51:31,128 - zigbee_toString: [sensor: 101, date:2023-03-31 16:51:31, temperature:11.0, humidity: 11.0]
+2023-03-31 16:51:31,148 - MLog clients using slf4j logging.
+2023-03-31 16:51:31,302 - Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2023-03-31 16:51:31,367 - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1hgeygxavf811q172flj7|62f65bb0, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> 1hgeygxavf811q172flj7|62f65bb0, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1:3306/agiot?serverTimezone=UTC, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 30, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 200, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+2023-03-31 16:51:31,758 - MySQLEventHandler onEvent: [sensor: 101, date:2023-03-31 16:51:31, temperature:11.0, humidity: 11.0]
+2023-03-31 16:51:31,760 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@a780cf6
+2023-03-31 16:51:31,825 - MqttConnectionPool Thread:26获取连接:1条
+2023-03-31 16:51:31,873 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 51, 45, 48, 51, 45, 51, 49, 32, 49, 54, 58, 53, 49, 58, 51, 49, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2023-03-31 16:51:31,873 - MQTTEventHandler MQTT:[sensor: 101, date:2023-03-31 16:51:31, temperature:11.0, humidity: 11.0]
+2023-03-31 16:51:31,893 - PushCallback deliveryComplete: true

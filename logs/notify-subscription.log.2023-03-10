@@ -1,0 +1,94 @@
+2023-03-10 10:18:46,782 - SerialPort COM4 is opening
+
+2023-03-10 10:18:46,992 - SerialPort COM2 is opening
+
+2023-03-10 10:19:11,709 - Get the data of the lora end-device and start parsing
+2023-03-10 10:19:11,724 - parse lora data[69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49]
+2023-03-10 10:19:11,724 - iHum:114
+2023-03-10 10:19:11,730 - lora_sensor date:[sensor: 1, date:2023-03-10 10:19:11, temperature:2930.1, humidity: 2981.0]
+2023-03-10 10:19:11,791 - MLog clients using slf4j logging.
+2023-03-10 10:19:12,092 - Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2023-03-10 10:19:12,174 - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1hgeygxau1juvoowvgxvzj|61c0f5ff, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> 1hgeygxau1juvoowvgxvzj|61c0f5ff, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1:3306/agiot?serverTimezone=UTC, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 30, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 200, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+2023-03-10 10:19:12,816 - MySQLEventHandler onEvent: [sensor: 1, date:2023-03-10 10:19:11, temperature:2930.1, humidity: 2981.0]
+2023-03-10 10:19:12,850 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@a780cf6
+2023-03-10 10:19:17,063 - MqttClientFactory 创建连接失败！
+2023-03-10 10:19:17,065 - MqttClientFactory 异常信息为：无法连接至服务器
+2023-03-10 10:19:17,065 - MqttConnectionPool Thread:25获取连接:1条
+2023-03-10 10:19:17,120 - Message sending failed!
+2023-03-10 10:19:17,120 - The exception information is：客户机未连接
+2023-03-10 10:19:17,121 - MQTTEventHandler MQTT:[sensor: 1, date:2023-03-10 10:19:11, temperature:2930.1, humidity: 2981.0]
+2023-03-10 10:19:27,429 - Get the data of the zigbee end-device and start parsing
+2023-03-10 10:19:27,430 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2023-03-10 10:19:27,433 - zigbeeStr:END1 temperture:11 humidity:11
+
+2023-03-10 10:19:27,433 - zigbee_toString: [sensor: 101, date:2023-03-10 10:19:27, temperature:11.0, humidity: 11.0]
+2023-03-10 10:19:27,437 - MySQLEventHandler onEvent: [sensor: 101, date:2023-03-10 10:19:27, temperature:11.0, humidity: 11.0]
+2023-03-10 10:19:27,438 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@1977e076
+2023-03-10 10:19:31,603 - MqttClientFactory 创建连接失败！
+2023-03-10 10:19:31,604 - MqttClientFactory 异常信息为：无法连接至服务器
+2023-03-10 10:19:31,604 - MqttConnectionPool Thread:23获取连接:1条
+2023-03-10 10:19:31,604 - Message sending failed!
+2023-03-10 10:19:31,604 - The exception information is：客户机未连接
+2023-03-10 10:19:31,604 - MQTTEventHandler MQTT:[sensor: 101, date:2023-03-10 10:19:27, temperature:11.0, humidity: 11.0]
+2023-03-10 10:20:32,567 - Get the data of the zigbee end-device and start parsing
+2023-03-10 10:20:32,568 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2023-03-10 10:20:32,568 - zigbeeStr:END1 temperture:11 humidity:11
+
+2023-03-10 10:20:32,568 - zigbee_toString: [sensor: 101, date:2023-03-10 10:20:32, temperature:11.0, humidity: 11.0]
+2023-03-10 10:20:32,571 - MySQLEventHandler onEvent: [sensor: 101, date:2023-03-10 10:20:32, temperature:11.0, humidity: 11.0]
+2023-03-10 10:20:32,572 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@fd27a5a
+2023-03-10 10:20:34,960 - Get the data of the zigbee end-device and start parsing
+2023-03-10 10:20:34,960 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2023-03-10 10:20:34,960 - zigbeeStr:END1 temperture:11 humidity:11
+
+2023-03-10 10:20:34,961 - zigbee_toString: [sensor: 101, date:2023-03-10 10:20:34, temperature:11.0, humidity: 11.0]
+2023-03-10 10:20:34,965 - MySQLEventHandler onEvent: [sensor: 101, date:2023-03-10 10:20:34, temperature:11.0, humidity: 11.0]
+2023-03-10 10:20:34,966 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@4793849a
+2023-03-10 10:20:36,738 - MqttClientFactory 创建连接失败！
+2023-03-10 10:20:36,738 - MqttClientFactory 异常信息为：无法连接至服务器
+2023-03-10 10:20:36,738 - MqttConnectionPool Thread:24获取连接:1条
+2023-03-10 10:20:36,738 - Message sending failed!
+2023-03-10 10:20:36,738 - The exception information is：客户机未连接
+2023-03-10 10:20:36,738 - MQTTEventHandler MQTT:[sensor: 101, date:2023-03-10 10:20:32, temperature:11.0, humidity: 11.0]
+2023-03-10 10:20:39,142 - MqttClientFactory 创建连接失败！
+2023-03-10 10:20:39,142 - MqttClientFactory 异常信息为：无法连接至服务器
+2023-03-10 10:20:39,142 - MqttConnectionPool Thread:26获取连接:1条
+2023-03-10 10:20:39,143 - Message sending failed!
+2023-03-10 10:20:39,143 - The exception information is：客户机未连接
+2023-03-10 10:20:39,143 - MQTTEventHandler MQTT:[sensor: 101, date:2023-03-10 10:20:34, temperature:11.0, humidity: 11.0]
+2023-03-10 10:22:12,620 - SerialPort COM4 is opening
+
+2023-03-10 10:22:12,626 - SerialPort COM2 is opening
+
+2023-03-10 10:22:19,135 - Get the data of the zigbee end-device and start parsing
+2023-03-10 10:22:19,136 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2023-03-10 10:22:19,136 - zigbeeStr:END1 temperture:11 humidity:11
+
+2023-03-10 10:22:19,137 - zigbee_toString: [sensor: 101, date:2023-03-10 10:22:19, temperature:11.0, humidity: 11.0]
+2023-03-10 10:22:19,154 - MLog clients using slf4j logging.
+2023-03-10 10:22:19,293 - Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2023-03-10 10:22:19,355 - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1hgeygxau1juzp6d1713rhs|29f364f7, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> 1hgeygxau1juzp6d1713rhs|29f364f7, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1:3306/agiot?serverTimezone=UTC, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 30, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 200, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+2023-03-10 10:22:19,725 - MySQLEventHandler onEvent: [sensor: 101, date:2023-03-10 10:22:19, temperature:11.0, humidity: 11.0]
+2023-03-10 10:22:19,728 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@3911c01
+2023-03-10 10:22:19,752 - MqttConnectionPool Thread:31获取连接:1条
+2023-03-10 10:22:19,803 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 51, 45, 48, 51, 45, 49, 48, 32, 49, 48, 58, 50, 50, 58, 49, 57, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2023-03-10 10:22:19,804 - PushCallback deliveryComplete: true
+2023-03-10 10:22:19,804 - MQTTEventHandler MQTT:[sensor: 101, date:2023-03-10 10:22:19, temperature:11.0, humidity: 11.0]
+2023-03-10 10:29:26,466 - SerialPort COM4 is opening
+
+2023-03-10 10:29:26,473 - SerialPort COM2 is opening
+
+2023-03-10 10:29:32,035 - Get the data of the zigbee end-device and start parsing
+2023-03-10 10:29:32,036 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2023-03-10 10:29:32,037 - zigbeeStr:END1 temperture:11 humidity:11
+
+2023-03-10 10:29:32,038 - zigbee_toString: [sensor: 101, date:2023-03-10 10:29:32, temperature:11.0, humidity: 11.0]
+2023-03-10 10:29:32,056 - MLog clients using slf4j logging.
+2023-03-10 10:29:32,196 - Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2023-03-10 10:29:32,263 - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1hgeygxau1jv8z7hqudckp|845fc6c, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> 1hgeygxau1jv8z7hqudckp|845fc6c, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1:3306/agiot?serverTimezone=UTC, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 30, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 200, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+2023-03-10 10:29:32,658 - MySQLEventHandler onEvent: [sensor: 101, date:2023-03-10 10:29:32, temperature:11.0, humidity: 11.0]
+2023-03-10 10:29:32,660 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@2736f07
+2023-03-10 10:29:32,720 - MqttConnectionPool Thread:24获取连接:1条
+2023-03-10 10:29:32,768 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 51, 45, 48, 51, 45, 49, 48, 32, 49, 48, 58, 50, 57, 58, 51, 50, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 49, 49, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 48, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 49, 49, 46, 48, 125]
+2023-03-10 10:29:32,768 - MQTTEventHandler MQTT:[sensor: 101, date:2023-03-10 10:29:32, temperature:11.0, humidity: 11.0]
+2023-03-10 10:29:33,009 - PushCallback deliveryComplete: true

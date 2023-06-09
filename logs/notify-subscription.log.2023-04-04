@@ -1,0 +1,134 @@
+2023-04-04 11:21:23,787 - SerialPort COM8 is opening
+
+2023-04-04 11:21:23,796 - SerialPort COM2 is opening
+
+2023-04-04 11:21:49,278 - Get the data of the zigbee end-device and start parsing
+2023-04-04 11:21:49,279 - reading serial port error  
+2023-04-04 11:21:49,301 - Get the data of the zigbee end-device and start parsing
+2023-04-04 11:21:49,302 - reading serial port error  
+2023-04-04 11:21:49,314 - Get the data of the zigbee end-device and start parsing
+2023-04-04 11:21:49,315 - reading serial port error  
+2023-04-04 11:21:49,318 - Get the data of the zigbee end-device and start parsing
+2023-04-04 11:22:22,294 - SerialPort COM8 is opening
+
+2023-04-04 11:22:22,301 - SerialPort COM2 is opening
+
+2023-04-04 11:22:53,649 - Get the data of the zigbee end-device and start parsing
+2023-04-04 11:22:53,650 - reading serial port error  
+2023-04-04 11:22:53,664 - Get the data of the zigbee end-device and start parsing
+2023-04-04 11:24:48,001 - Get the data of the zigbee end-device and start parsing
+2023-04-04 11:24:48,002 - reading serial port error  
+2023-04-04 11:24:48,018 - Get the data of the zigbee end-device and start parsing
+2023-04-04 15:27:19,314 - commPort：通信端口 (COM1),SystemPortName:COM1
+2023-04-04 15:27:19,520 - commPort：ELTIMA_Virtual_Serial_Port_00,SystemPortName:COM2
+2023-04-04 15:27:19,720 - commPort：ELTIMA_Virtual_Serial_Port_01,SystemPortName:COM3
+2023-04-04 15:27:19,921 - commPort：ELTIMA_Virtual_Serial_Port_02,SystemPortName:COM4
+2023-04-04 15:27:20,121 - commPort：ELTIMA_Virtual_Serial_Port_03,SystemPortName:COM5
+2023-04-04 15:27:20,321 - commPort：USB Serial,SystemPortName:COM8
+2023-04-04 15:27:20,521 - commPort：USB2.0-Serial,SystemPortName:COM15
+2023-04-04 15:28:16,296 - SerialPort COM8 is opening
+
+2023-04-04 15:28:20,478 - SerialPort COM2 is opening
+
+2023-04-04 15:28:23,574 - Get the data of the zigbee end-device and start parsing
+2023-04-04 15:28:23,578 - reading serial port error  
+2023-04-04 15:28:24,083 - Get the data of the zigbee end-device and start parsing
+2023-04-04 15:28:24,086 - reading serial port error  
+2023-04-04 15:28:24,122 - Get the data of the zigbee end-device and start parsing
+2023-04-04 15:28:30,308 - Get the data of the zigbee end-device and start parsing
+2023-04-04 15:28:30,310 - reading serial port error  
+2023-04-04 15:28:30,344 - Get the data of the zigbee end-device and start parsing
+2023-04-04 15:28:39,771 - Get the data of the zigbee end-device and start parsing
+2023-04-04 15:28:39,774 - reading serial port error  
+2023-04-04 15:28:39,810 - Get the data of the zigbee end-device and start parsing
+2023-04-04 15:28:49,241 - Get the data of the zigbee end-device and start parsing
+2023-04-04 15:28:49,243 - reading serial port error  
+2023-04-04 15:28:49,279 - Get the data of the zigbee end-device and start parsing
+2023-04-04 15:29:20,281 - SerialPort COM8 is opening
+
+2023-04-04 15:33:27,624 - Get the data of the zigbee end-device and start parsing
+2023-04-04 15:33:27,628 - SerialPort COM2 is opening
+
+2023-04-04 15:33:27,636 - reading serial port error  
+2023-04-04 15:33:41,972 - SerialPort COM8 is opening
+
+2023-04-04 15:33:41,986 - SerialPort COM2 is opening
+
+2023-04-04 15:33:42,735 - Get the data of the zigbee end-device and start parsing
+2023-04-04 15:34:15,900 - reading serial port error  
+2023-04-04 15:34:31,044 - SerialPort COM5 is opening
+
+2023-04-04 15:34:31,054 - SerialPort COM2 is opening
+
+2023-04-04 15:34:44,378 - Get the data of the zigbee end-device and start parsing
+2023-04-04 15:34:57,465 - parse zigbee data: [69, 78, 68, 49, 32, 116, 101, 109, 112, 101, 114, 116, 117, 114, 101, 58, 49, 49, 32, 104, 117, 109, 105, 100, 105, 116, 121, 58, 49, 49, 13, 10]
+2023-04-04 15:34:57,477 - zigbeeStr:END1 temperture:11 humidity:11
+
+2023-04-04 15:35:05,404 - SerialPort COM8 is opening
+
+2023-04-04 15:35:05,413 - SerialPort COM2 is opening
+
+2023-04-04 15:35:07,943 - Get the data of the zigbee end-device and start parsing
+2023-04-04 15:36:06,400 - reading serial port error  
+2023-04-04 15:36:06,404 - Get the data of the zigbee end-device and start parsing
+2023-04-04 15:36:06,407 - reading serial port error  
+2023-04-04 15:36:10,256 - SerialPort COM8 is opening
+
+2023-04-04 15:36:10,266 - SerialPort COM2 is opening
+
+2023-04-04 15:36:14,223 - Get the data of the zigbee end-device and start parsing
+2023-04-04 15:45:49,559 - reading serial port error  
+2023-04-04 15:45:49,562 - Get the data of the zigbee end-device and start parsing
+2023-04-04 15:52:28,747 - SerialPort COM8 is opening
+
+2023-04-04 15:52:28,759 - SerialPort COM2 is opening
+
+2023-04-04 15:52:29,427 - Get the data of the zigbee end-device and start parsing
+2023-04-04 15:53:14,557 - parse zigbee data: [73, 58, 48, 48, 49, 95, 77, 58, 48, 48, 49, 50, 52, 66, 48, 48, 50, 54, 48, 56, 56, 49, 50, 50, 95, 75, 58, 48, 49, 50, 51, 52]
+2023-04-04 15:53:14,559 - zigbeeStr:I:001_M:00124B0026088122_K:01234
+2023-04-04 15:53:21,326 - reading serial port error  
+2023-04-04 15:53:31,521 - Get the data of the zigbee end-device and start parsing
+2023-04-04 15:53:33,105 - parse zigbee data: [73, 58, 48, 48, 49, 95, 77, 58, 48, 48, 49, 50, 52, 66, 48, 48, 50, 54, 48, 56, 56, 49, 50, 50, 95, 75, 58, 48, 49, 50, 51, 52]
+2023-04-04 15:53:33,105 - zigbeeStr:I:001_M:00124B0026088122_K:01234
+2023-04-04 15:53:35,711 - reading serial port error  
+2023-04-04 15:53:38,434 - Get the data of the zigbee end-device and start parsing
+2023-04-04 15:53:41,846 - parse zigbee data: [73, 58, 48, 48, 49, 95, 77, 58, 48, 48, 49, 50, 52, 66, 48, 48, 50, 54, 48, 56, 56, 49, 50, 50, 95, 75, 58, 48, 49, 50, 51, 52]
+2023-04-04 15:53:41,847 - zigbeeStr:I:001_M:00124B0026088122_K:01234
+2023-04-04 15:53:45,650 - reading serial port error  
+2023-04-04 16:08:43,894 - Get the data of the zigbee end-device and start parsing
+2023-04-04 16:08:53,669 - SerialPort COM8 is opening
+
+2023-04-04 16:08:53,680 - SerialPort COM2 is opening
+
+2023-04-04 16:09:03,344 - Get the data of the zigbee end-device and start parsing
+2023-04-04 16:16:10,198 - parse zigbee data: [73, 58, 48, 48, 49, 95, 77, 58, 48, 48, 49, 50, 52, 66, 48, 48, 50, 54, 48, 56, 56, 49, 50, 50, 95, 75, 58, 48, 49, 50, 51, 52]
+2023-04-04 16:16:10,201 - zigbeeStr:I:001_M:00124B0026088122_K:01234
+2023-04-04 16:16:10,201 - reading serial port error  
+2023-04-04 16:16:40,679 - SerialPort COM8 is opening
+
+2023-04-04 16:16:40,690 - SerialPort COM2 is opening
+
+2023-04-04 16:16:47,287 - Get the data of the zigbee end-device and start parsing
+2023-04-04 16:19:59,819 - reading serial port error  
+2023-04-04 16:19:59,823 - Get the data of the zigbee end-device and start parsing
+2023-04-04 16:19:59,832 - parse zigbee data: [73, 58, 48, 48, 49, 95, 77, 58, 48, 48, 49, 50, 52, 66, 48, 48, 50, 54, 48, 56, 56, 49, 50, 50, 95, 75, 58, 48, 49, 50, 51, 52, 53, 54, 55, 95, 84, 58, 50, 49, 95, 72, 58, 51, 51, 10]
+2023-04-04 16:19:59,832 - zigbeeStr:I:001_M:00124B0026088122_K:01234567_T:21_H:33
+
+2023-04-04 16:19:59,833 - reading serial port error  
+2023-04-04 16:20:02,211 - SerialPort COM8 is opening
+
+2023-04-04 16:20:02,223 - SerialPort COM2 is opening
+
+2023-04-04 16:20:06,134 - Get the data of the zigbee end-device and start parsing
+2023-04-04 16:20:33,623 - reading serial port error  
+2023-04-04 16:20:33,626 - Get the data of the zigbee end-device and start parsing
+2023-04-04 16:24:52,228 - parse zigbee data: [73, 58, 48, 48, 49, 95, 77, 58, 48, 48, 49, 50, 52, 66, 48, 48, 50, 54, 48, 56, 56, 49, 50, 50, 95, 75, 58, 48, 49, 50, 51, 52, 53, 54, 55, 95, 84, 58, 50, 49, 95, 72, 58, 51, 53, 10]
+2023-04-04 16:24:52,230 - zigbeeStr:I:001_M:00124B0026088122_K:01234567_T:21_H:35
+
+2023-04-04 16:24:52,231 - reading serial port error  
+2023-04-04 16:24:52,237 - Get the data of the zigbee end-device and start parsing
+2023-04-04 16:24:52,241 - parse zigbee data: [73, 58, 48, 48, 49, 95, 77, 58, 48, 48, 49, 50, 52, 66, 48, 48, 50, 54, 48, 56, 56, 49, 50, 50, 95, 75, 58, 48, 49, 50, 51, 52, 53, 54, 55, 95, 84, 58, 50, 49, 95, 72, 58, 51, 53, 10]
+2023-04-04 16:24:52,241 - zigbeeStr:I:001_M:00124B0026088122_K:01234567_T:21_H:35
+
+2023-04-04 16:24:52,241 - reading serial port error  
+2023-04-04 16:24:52,247 - Get the data of the zigbee end-device and start parsing

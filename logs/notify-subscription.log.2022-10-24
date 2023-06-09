@@ -1,0 +1,150 @@
+2022-10-24 15:38:32,437 - SerialPort COM3 is opening
+
+2022-10-24 15:38:32,445 - SerialPort COM1 is opening
+
+2022-10-24 15:38:42,290 - commPort：COM3,SystemPortName:COM7
+2022-10-24 15:38:47,684 - commPort：蓝牙外围设备,SystemPortName:COM6
+2022-10-24 15:38:47,885 - commPort：ELTIMA_Virtual_Serial_Port_00,SystemPortName:COM1
+2022-10-24 15:38:48,087 - commPort：ELTIMA_Virtual_Serial_Port_01,SystemPortName:COM2
+2022-10-24 15:38:48,288 - commPort：ELTIMA_Virtual_Serial_Port_02,SystemPortName:COM3
+2022-10-24 15:38:48,489 - commPort：ELTIMA_Virtual_Serial_Port_03,SystemPortName:COM4
+2022-10-24 15:38:53,929 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:38:53,933 - Get the data of the lora end-device and start parsing
+2022-10-24 15:38:54,040 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:38:54,040 - iHum:146
+2022-10-24 15:38:54,042 - lora_sensor date:[sensor: 1, date:2022-10-24 15:38:54, temperature:0.1, humidity: 65.8]
+2022-10-24 15:38:54,095 - MLog clients using slf4j logging.
+2022-10-24 15:38:54,993 - Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2022-10-24 15:38:55,095 - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1hge51das2h78f5ii58xk|2521eccb, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> 1hge51das2h78f5ii58xk|2521eccb, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1:3306/agiot?serverTimezone=UTC, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 30, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 200, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+2022-10-24 15:38:57,276 - MySQLEventHandler onEvent: [sensor: 1, date:2022-10-24 15:38:54, temperature:0.1, humidity: 65.8]
+2022-10-24 15:38:57,281 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@3b53ceb8
+2022-10-24 15:38:57,324 - MqttConnectionPool Thread:25获取连接:1条
+2022-10-24 15:38:57,409 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 49, 48, 45, 50, 52, 32, 49, 53, 58, 51, 56, 58, 53, 52, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-10-24 15:38:57,409 - MQTTEventHandler MQTT:[sensor: 1, date:2022-10-24 15:38:54, temperature:0.1, humidity: 65.8]
+2022-10-24 15:38:57,409 - PushCallback deliveryComplete: true
+2022-10-24 15:38:59,133 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:38:59,134 - Get the data of the lora end-device and start parsing
+2022-10-24 15:38:59,136 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:38:59,136 - iHum:146
+2022-10-24 15:38:59,136 - lora_sensor date:[sensor: 1, date:2022-10-24 15:38:59, temperature:0.1, humidity: 65.8]
+2022-10-24 15:38:59,884 - MySQLEventHandler onEvent: [sensor: 1, date:2022-10-24 15:38:59, temperature:0.1, humidity: 65.8]
+2022-10-24 15:38:59,886 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@1e2c65f9
+2022-10-24 15:38:59,890 - MqttConnectionPool Thread:26获取连接:1条
+2022-10-24 15:38:59,891 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 49, 48, 45, 50, 52, 32, 49, 53, 58, 51, 56, 58, 53, 57, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-10-24 15:38:59,891 - PushCallback deliveryComplete: true
+2022-10-24 15:38:59,891 - MQTTEventHandler MQTT:[sensor: 1, date:2022-10-24 15:38:59, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:04,335 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:04,337 - Get the data of the lora end-device and start parsing
+2022-10-24 15:39:04,337 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:04,337 - iHum:146
+2022-10-24 15:39:04,337 - lora_sensor date:[sensor: 1, date:2022-10-24 15:39:04, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:04,477 - MySQLEventHandler onEvent: [sensor: 1, date:2022-10-24 15:39:04, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:04,480 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@1999dbcd
+2022-10-24 15:39:04,483 - MqttConnectionPool Thread:29获取连接:1条
+2022-10-24 15:39:04,484 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 49, 48, 45, 50, 52, 32, 49, 53, 58, 51, 57, 58, 48, 52, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-10-24 15:39:04,484 - MQTTEventHandler MQTT:[sensor: 1, date:2022-10-24 15:39:04, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:04,484 - PushCallback deliveryComplete: true
+2022-10-24 15:39:09,536 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:09,537 - Get the data of the lora end-device and start parsing
+2022-10-24 15:39:09,538 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:09,538 - iHum:146
+2022-10-24 15:39:09,538 - lora_sensor date:[sensor: 1, date:2022-10-24 15:39:09, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:09,684 - MySQLEventHandler onEvent: [sensor: 1, date:2022-10-24 15:39:09, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:09,686 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@44401c0a
+2022-10-24 15:39:09,691 - MqttConnectionPool Thread:30获取连接:1条
+2022-10-24 15:39:09,692 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 49, 48, 45, 50, 52, 32, 49, 53, 58, 51, 57, 58, 48, 57, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-10-24 15:39:09,692 - PushCallback deliveryComplete: true
+2022-10-24 15:39:09,692 - MQTTEventHandler MQTT:[sensor: 1, date:2022-10-24 15:39:09, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:14,736 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:14,739 - Get the data of the lora end-device and start parsing
+2022-10-24 15:39:14,739 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:14,739 - iHum:146
+2022-10-24 15:39:14,740 - lora_sensor date:[sensor: 1, date:2022-10-24 15:39:14, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:14,883 - MySQLEventHandler onEvent: [sensor: 1, date:2022-10-24 15:39:14, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:14,886 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@3f7c196c
+2022-10-24 15:39:14,890 - MqttConnectionPool Thread:23获取连接:1条
+2022-10-24 15:39:14,891 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 49, 48, 45, 50, 52, 32, 49, 53, 58, 51, 57, 58, 49, 52, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-10-24 15:39:14,891 - MQTTEventHandler MQTT:[sensor: 1, date:2022-10-24 15:39:14, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:14,891 - PushCallback deliveryComplete: true
+2022-10-24 15:39:19,937 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:19,939 - Get the data of the lora end-device and start parsing
+2022-10-24 15:39:19,940 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:19,940 - iHum:146
+2022-10-24 15:39:19,940 - lora_sensor date:[sensor: 1, date:2022-10-24 15:39:19, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:20,085 - MySQLEventHandler onEvent: [sensor: 1, date:2022-10-24 15:39:19, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:20,088 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@1d93594d
+2022-10-24 15:39:20,092 - MqttConnectionPool Thread:24获取连接:1条
+2022-10-24 15:39:20,093 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 49, 48, 45, 50, 52, 32, 49, 53, 58, 51, 57, 58, 49, 57, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-10-24 15:39:20,093 - PushCallback deliveryComplete: true
+2022-10-24 15:39:20,093 - MQTTEventHandler MQTT:[sensor: 1, date:2022-10-24 15:39:19, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:25,138 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:25,140 - Get the data of the lora end-device and start parsing
+2022-10-24 15:39:25,141 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:25,141 - iHum:146
+2022-10-24 15:39:25,141 - lora_sensor date:[sensor: 1, date:2022-10-24 15:39:25, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:25,201 - MySQLEventHandler onEvent: [sensor: 1, date:2022-10-24 15:39:25, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:25,204 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@1ecdd420
+2022-10-24 15:39:25,208 - MqttConnectionPool Thread:27获取连接:1条
+2022-10-24 15:39:25,209 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 49, 48, 45, 50, 52, 32, 49, 53, 58, 51, 57, 58, 50, 53, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-10-24 15:39:25,210 - PushCallback deliveryComplete: true
+2022-10-24 15:39:25,210 - MQTTEventHandler MQTT:[sensor: 1, date:2022-10-24 15:39:25, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:30,340 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:30,341 - Get the data of the lora end-device and start parsing
+2022-10-24 15:39:30,342 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:30,342 - iHum:146
+2022-10-24 15:39:30,342 - lora_sensor date:[sensor: 1, date:2022-10-24 15:39:30, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:30,504 - MySQLEventHandler onEvent: [sensor: 1, date:2022-10-24 15:39:30, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:30,506 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@14bd0250
+2022-10-24 15:39:30,509 - MqttConnectionPool Thread:28获取连接:1条
+2022-10-24 15:39:30,510 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 49, 48, 45, 50, 52, 32, 49, 53, 58, 51, 57, 58, 51, 48, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-10-24 15:39:30,510 - PushCallback deliveryComplete: true
+2022-10-24 15:39:30,510 - MQTTEventHandler MQTT:[sensor: 1, date:2022-10-24 15:39:30, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:35,541 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:35,543 - Get the data of the lora end-device and start parsing
+2022-10-24 15:39:35,543 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:35,543 - iHum:146
+2022-10-24 15:39:35,543 - lora_sensor date:[sensor: 1, date:2022-10-24 15:39:35, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:35,699 - MySQLEventHandler onEvent: [sensor: 1, date:2022-10-24 15:39:35, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:35,702 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@1977e076
+2022-10-24 15:39:35,706 - MqttConnectionPool Thread:31获取连接:1条
+2022-10-24 15:39:35,706 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 49, 48, 45, 50, 52, 32, 49, 53, 58, 51, 57, 58, 51, 53, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-10-24 15:39:35,707 - PushCallback deliveryComplete: true
+2022-10-24 15:39:35,707 - MQTTEventHandler MQTT:[sensor: 1, date:2022-10-24 15:39:35, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:40,742 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:40,744 - Get the data of the lora end-device and start parsing
+2022-10-24 15:39:40,744 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:40,744 - iHum:146
+2022-10-24 15:39:40,744 - lora_sensor date:[sensor: 1, date:2022-10-24 15:39:40, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:40,902 - MySQLEventHandler onEvent: [sensor: 1, date:2022-10-24 15:39:40, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:40,913 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@bb607a5
+2022-10-24 15:39:40,916 - MqttConnectionPool Thread:32获取连接:1条
+2022-10-24 15:39:40,917 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 49, 48, 45, 50, 52, 32, 49, 53, 58, 51, 57, 58, 52, 48, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-10-24 15:39:40,917 - PushCallback deliveryComplete: true
+2022-10-24 15:39:40,917 - MQTTEventHandler MQTT:[sensor: 1, date:2022-10-24 15:39:40, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:45,942 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:45,944 - Get the data of the lora end-device and start parsing
+2022-10-24 15:39:45,945 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:45,945 - iHum:146
+2022-10-24 15:39:45,945 - lora_sensor date:[sensor: 1, date:2022-10-24 15:39:45, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:46,118 - MySQLEventHandler onEvent: [sensor: 1, date:2022-10-24 15:39:45, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:46,118 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 49, 48, 45, 50, 52, 32, 49, 53, 58, 51, 57, 58, 52, 53, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-10-24 15:39:46,118 - MQTTEventHandler MQTT:[sensor: 1, date:2022-10-24 15:39:45, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:46,118 - PushCallback deliveryComplete: true
+2022-10-24 15:39:51,143 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:51,146 - Get the data of the lora end-device and start parsing
+2022-10-24 15:39:51,146 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:51,146 - iHum:146
+2022-10-24 15:39:51,146 - lora_sensor date:[sensor: 1, date:2022-10-24 15:39:51, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:51,295 - MySQLEventHandler onEvent: [sensor: 1, date:2022-10-24 15:39:51, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:51,295 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 49, 48, 45, 50, 52, 32, 49, 53, 58, 51, 57, 58, 53, 49, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-10-24 15:39:51,295 - MQTTEventHandler MQTT:[sensor: 1, date:2022-10-24 15:39:51, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:51,295 - PushCallback deliveryComplete: true
+2022-10-24 15:39:56,344 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:56,346 - Get the data of the lora end-device and start parsing
+2022-10-24 15:39:56,346 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-24 15:39:56,346 - iHum:146
+2022-10-24 15:39:56,346 - lora_sensor date:[sensor: 1, date:2022-10-24 15:39:56, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:56,496 - MySQLEventHandler onEvent: [sensor: 1, date:2022-10-24 15:39:56, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:56,496 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 49, 48, 45, 50, 52, 32, 49, 53, 58, 51, 57, 58, 53, 54, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 54, 53, 46, 56, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 48, 46, 49, 125]
+2022-10-24 15:39:56,496 - MQTTEventHandler MQTT:[sensor: 1, date:2022-10-24 15:39:56, temperature:0.1, humidity: 65.8]
+2022-10-24 15:39:56,496 - PushCallback deliveryComplete: true

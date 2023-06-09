@@ -1,0 +1,296 @@
+2023-04-10 20:55:10,707 - SerialPort COM8 is opening
+
+2023-04-10 20:55:10,737 - SerialPort COM15 is opening
+
+2023-04-10 20:55:10,738 - lora GateWay send request frame to LoRa end-device,start
+2023-04-10 20:55:19,015 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:55:19,428 - zigbee_toString: [sensor: 1, date:2023-04-10 20:55:19, temperature:25.0, humidity: 40.0]
+2023-04-10 20:55:19,438 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@1a98a7a7
+2023-04-10 20:55:19,594 - MqttConnectionPool Thread:13鑾峰彇杩炴帴:1鏉�
+2023-04-10 20:55:19,680 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:55:19,680 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:55:19, temperature:25.0, humidity: 40.0]
+2023-04-10 20:55:19,694 - PushCallback deliveryComplete: true
+2023-04-10 20:55:20,739 - lora GateWay send request frame to LoRa end-device,over
+2023-04-10 20:55:20,739 - lora GateWay send request frame to LoRa end-device,start
+2023-04-10 20:55:28,475 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:55:28,494 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:55:28,495 - zigbee_toString: [sensor: 1, date:2023-04-10 20:55:28, temperature:26.0, humidity: 40.0]
+2023-04-10 20:55:28,497 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@14bd0250
+2023-04-10 20:55:28,536 - MqttConnectionPool Thread:19鑾峰彇杩炴帴:1鏉�
+2023-04-10 20:55:28,537 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:55:28,537 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:55:28, temperature:26.0, humidity: 40.0]
+2023-04-10 20:55:28,551 - PushCallback deliveryComplete: true
+2023-04-10 20:55:30,740 - lora GateWay send request frame to LoRa end-device,over
+2023-04-10 20:55:30,740 - lora GateWay send request frame to LoRa end-device,start
+2023-04-10 20:55:37,944 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:55:37,964 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:55:37,964 - zigbee_toString: [sensor: 1, date:2023-04-10 20:55:37, temperature:26.0, humidity: 40.0]
+2023-04-10 20:55:37,965 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@1ecdd420
+2023-04-10 20:55:37,997 - MqttConnectionPool Thread:18鑾峰彇杩炴帴:1鏉�
+2023-04-10 20:55:37,998 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:55:37,998 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:55:37, temperature:26.0, humidity: 40.0]
+2023-04-10 20:55:38,012 - PushCallback deliveryComplete: true
+2023-04-10 20:55:40,741 - lora GateWay send request frame to LoRa end-device,over
+2023-04-10 20:55:40,741 - lora GateWay send request frame to LoRa end-device,start
+2023-04-10 20:55:47,413 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:55:47,435 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:55:47,436 - zigbee_toString: [sensor: 1, date:2023-04-10 20:55:47, temperature:26.0, humidity: 40.0]
+2023-04-10 20:55:47,437 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@33dff95b
+2023-04-10 20:55:47,476 - MqttConnectionPool Thread:17鑾峰彇杩炴帴:1鏉�
+2023-04-10 20:55:47,477 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:55:47,477 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:55:47, temperature:26.0, humidity: 40.0]
+2023-04-10 20:55:47,494 - PushCallback deliveryComplete: true
+2023-04-10 20:55:50,741 - lora GateWay send request frame to LoRa end-device,over
+2023-04-10 20:55:50,741 - lora GateWay send request frame to LoRa end-device,start
+2023-04-10 20:55:56,878 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:55:56,899 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:55:56,899 - zigbee_toString: [sensor: 1, date:2023-04-10 20:55:56, temperature:26.0, humidity: 41.0]
+2023-04-10 20:55:56,902 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@1999dbcd
+2023-04-10 20:55:56,937 - MqttConnectionPool Thread:20鑾峰彇杩炴帴:1鏉�
+2023-04-10 20:55:56,937 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:55:56,937 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:55:56, temperature:26.0, humidity: 41.0]
+2023-04-10 20:55:56,953 - PushCallback deliveryComplete: true
+2023-04-10 20:56:00,741 - lora GateWay send request frame to LoRa end-device,over
+2023-04-10 20:56:00,741 - lora GateWay send request frame to LoRa end-device,start
+2023-04-10 20:56:06,348 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:56:06,373 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:56:06,374 - zigbee_toString: [sensor: 1, date:2023-04-10 20:56:06, temperature:26.0, humidity: 41.0]
+2023-04-10 20:56:06,385 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@1d93594d
+2023-04-10 20:56:06,423 - MqttConnectionPool Thread:14鑾峰彇杩炴帴:1鏉�
+2023-04-10 20:56:06,424 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:56:06,424 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:56:06, temperature:26.0, humidity: 41.0]
+2023-04-10 20:56:06,442 - PushCallback deliveryComplete: true
+2023-04-10 20:56:10,742 - lora GateWay send request frame to LoRa end-device,over
+2023-04-10 20:56:10,742 - lora GateWay send request frame to LoRa end-device,start
+2023-04-10 20:56:15,815 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:56:15,832 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:56:15,832 - zigbee_toString: [sensor: 1, date:2023-04-10 20:56:15, temperature:26.0, humidity: 40.0]
+2023-04-10 20:56:15,834 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@205762d6
+2023-04-10 20:56:15,866 - MqttConnectionPool Thread:15鑾峰彇杩炴帴:1鏉�
+2023-04-10 20:56:15,867 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:56:15,867 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:56:15, temperature:26.0, humidity: 40.0]
+2023-04-10 20:56:15,882 - PushCallback deliveryComplete: true
+2023-04-10 20:56:20,743 - lora GateWay send request frame to LoRa end-device,over
+2023-04-10 20:56:20,743 - lora GateWay send request frame to LoRa end-device,start
+2023-04-10 20:56:20,748 - Get the data of the lora end-device and start parsing
+2023-04-10 20:56:20,748 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, 0, 0, 0, 0, -109, -42, -24]
+2023-04-10 20:56:20,748 - iHum:0
+2023-04-10 20:56:20,748 - lora_sensor date:[sensor: 1, date:2023-04-10 20:56:20, temperature:0.0, humidity: 0.0]
+2023-04-10 20:56:20,750 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@1e2c65f9
+2023-04-10 20:56:20,788 - MqttConnectionPool Thread:16鑾峰彇杩炴帴:1鏉�
+2023-04-10 20:56:20,788 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:56:20,788 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:56:20, temperature:0.0, humidity: 0.0]
+2023-04-10 20:56:20,805 - PushCallback deliveryComplete: true
+2023-04-10 20:56:25,280 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:56:25,296 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:56:25,296 - zigbee_toString: [sensor: 1, date:2023-04-10 20:56:25, temperature:26.0, humidity: 40.0]
+2023-04-10 20:56:25,298 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@44401c0a
+2023-04-10 20:56:25,331 - MqttConnectionPool Thread:21鑾峰彇杩炴帴:1鏉�
+2023-04-10 20:56:25,332 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:56:25,332 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:56:25, temperature:26.0, humidity: 40.0]
+2023-04-10 20:56:25,348 - PushCallback deliveryComplete: true
+2023-04-10 20:56:30,743 - lora GateWay send request frame to LoRa end-device,over
+2023-04-10 20:56:30,743 - lora GateWay send request frame to LoRa end-device,start
+2023-04-10 20:56:30,749 - Get the data of the lora end-device and start parsing
+2023-04-10 20:56:30,749 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, 0, 0, 0, 0, -109, -42, -24]
+2023-04-10 20:56:30,749 - iHum:0
+2023-04-10 20:56:30,750 - lora_sensor date:[sensor: 1, date:2023-04-10 20:56:30, temperature:0.0, humidity: 0.0]
+2023-04-10 20:56:30,751 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@6de43a32
+2023-04-10 20:56:30,787 - MqttConnectionPool Thread:22鑾峰彇杩炴帴:1鏉�
+2023-04-10 20:56:30,787 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:56:30,787 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:56:30, temperature:0.0, humidity: 0.0]
+2023-04-10 20:56:30,804 - PushCallback deliveryComplete: true
+2023-04-10 20:56:34,749 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:56:34,766 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:56:34,766 - zigbee_toString: [sensor: 1, date:2023-04-10 20:56:34, temperature:26.0, humidity: 40.0]
+2023-04-10 20:56:34,767 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:56:34,767 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:56:34, temperature:26.0, humidity: 40.0]
+2023-04-10 20:56:34,781 - PushCallback deliveryComplete: true
+2023-04-10 20:56:40,743 - lora GateWay send request frame to LoRa end-device,over
+2023-04-10 20:56:40,743 - lora GateWay send request frame to LoRa end-device,start
+2023-04-10 20:56:40,749 - Get the data of the lora end-device and start parsing
+2023-04-10 20:56:40,750 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, 0, 0, 0, 0, -109, -42, -24]
+2023-04-10 20:56:40,750 - iHum:0
+2023-04-10 20:56:40,750 - lora_sensor date:[sensor: 1, date:2023-04-10 20:56:40, temperature:0.0, humidity: 0.0]
+2023-04-10 20:56:40,750 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:56:40,750 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:56:40, temperature:0.0, humidity: 0.0]
+2023-04-10 20:56:40,768 - PushCallback deliveryComplete: true
+2023-04-10 20:56:44,216 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:56:44,233 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:56:44,233 - zigbee_toString: [sensor: 1, date:2023-04-10 20:56:44, temperature:26.0, humidity: 40.0]
+2023-04-10 20:56:44,234 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:56:44,234 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:56:44, temperature:26.0, humidity: 40.0]
+2023-04-10 20:56:44,471 - PushCallback deliveryComplete: true
+2023-04-10 20:56:50,744 - lora GateWay send request frame to LoRa end-device,over
+2023-04-10 20:56:50,744 - lora GateWay send request frame to LoRa end-device,start
+2023-04-10 20:56:50,750 - Get the data of the lora end-device and start parsing
+2023-04-10 20:56:50,750 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -59, 1, -2, 0, -66, -70, -24]
+2023-04-10 20:56:50,750 - iHum:197
+2023-04-10 20:56:50,750 - lora_sensor date:[sensor: 1, date:2023-04-10 20:56:50, temperature:25.4, humidity: 45.3]
+2023-04-10 20:56:50,751 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:56:50,751 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:56:50, temperature:25.4, humidity: 45.3]
+2023-04-10 20:56:50,768 - PushCallback deliveryComplete: true
+2023-04-10 20:56:53,679 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:56:53,697 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:56:53,698 - zigbee_toString: [sensor: 1, date:2023-04-10 20:56:53, temperature:26.0, humidity: 40.0]
+2023-04-10 20:56:53,698 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:56:53,698 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:56:53, temperature:26.0, humidity: 40.0]
+2023-04-10 20:56:53,714 - PushCallback deliveryComplete: true
+2023-04-10 20:57:00,744 - lora GateWay send request frame to LoRa end-device,over
+2023-04-10 20:57:00,744 - lora GateWay send request frame to LoRa end-device,start
+2023-04-10 20:57:00,750 - Get the data of the lora end-device and start parsing
+2023-04-10 20:57:00,750 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -63, 1, -1, 0, -66, 26, -24]
+2023-04-10 20:57:00,750 - iHum:193
+2023-04-10 20:57:00,751 - lora_sensor date:[sensor: 1, date:2023-04-10 20:57:00, temperature:25.5, humidity: 44.9]
+2023-04-10 20:57:00,751 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:57:00,751 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:57:00, temperature:25.5, humidity: 44.9]
+2023-04-10 20:57:00,770 - PushCallback deliveryComplete: true
+2023-04-10 20:57:03,149 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:57:03,168 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:57:03,168 - zigbee_toString: [sensor: 1, date:2023-04-10 20:57:03, temperature:26.0, humidity: 40.0]
+2023-04-10 20:57:03,169 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:57:03,169 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:57:03, temperature:26.0, humidity: 40.0]
+2023-04-10 20:57:03,184 - PushCallback deliveryComplete: true
+2023-04-10 20:57:10,744 - lora GateWay send request frame to LoRa end-device,over
+2023-04-10 20:57:10,744 - lora GateWay send request frame to LoRa end-device,start
+2023-04-10 20:57:11,250 - Get the data of the lora end-device and start parsing
+2023-04-10 20:57:11,250 - parse lora data[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, 0, 0, 0, 0, -109, -42, -24]
+2023-04-10 20:57:11,250 - iHum:0
+2023-04-10 20:57:11,251 - lora_sensor date:[sensor: 1, date:2023-04-10 20:57:11, temperature:0.0, humidity: 0.0]
+2023-04-10 20:57:11,258 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:57:11,258 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:57:11, temperature:0.0, humidity: 0.0]
+2023-04-10 20:57:11,274 - PushCallback deliveryComplete: true
+2023-04-10 20:57:12,618 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:57:12,635 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:57:12,635 - zigbee_toString: [sensor: 1, date:2023-04-10 20:57:12, temperature:26.0, humidity: 40.0]
+2023-04-10 20:57:12,636 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:57:12,636 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:57:12, temperature:26.0, humidity: 40.0]
+2023-04-10 20:57:12,652 - PushCallback deliveryComplete: true
+2023-04-10 20:57:20,745 - lora GateWay send request frame to LoRa end-device,over
+2023-04-10 20:57:20,745 - lora GateWay send request frame to LoRa end-device,start
+2023-04-10 20:57:22,081 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:57:22,103 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:57:22,103 - zigbee_toString: [sensor: 1, date:2023-04-10 20:57:22, temperature:26.0, humidity: 40.0]
+2023-04-10 20:57:22,104 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:57:22,104 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:57:22, temperature:26.0, humidity: 40.0]
+2023-04-10 20:57:22,120 - PushCallback deliveryComplete: true
+2023-04-10 20:57:30,746 - lora GateWay send request frame to LoRa end-device,over
+2023-04-10 20:57:30,746 - lora GateWay send request frame to LoRa end-device,start
+2023-04-10 20:57:32,854 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:57:32,872 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:57:32,873 - zigbee_toString: [sensor: 1, date:2023-04-10 20:57:32, temperature:26.0, humidity: 40.0]
+2023-04-10 20:57:32,873 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:57:32,873 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:57:32, temperature:26.0, humidity: 40.0]
+2023-04-10 20:57:32,888 - PushCallback deliveryComplete: true
+2023-04-10 20:57:40,746 - lora GateWay send request frame to LoRa end-device,over
+2023-04-10 20:57:40,746 - lora GateWay send request frame to LoRa end-device,start
+2023-04-10 20:57:41,019 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:57:41,037 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:57:41,037 - zigbee_toString: [sensor: 1, date:2023-04-10 20:57:41, temperature:26.0, humidity: 40.0]
+2023-04-10 20:57:41,038 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:57:41,038 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:57:41, temperature:26.0, humidity: 40.0]
+2023-04-10 20:57:41,052 - PushCallback deliveryComplete: true
+2023-04-10 20:57:50,485 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:57:50,502 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:57:50,502 - zigbee_toString: [sensor: 1, date:2023-04-10 20:57:50, temperature:25.0, humidity: 40.0]
+2023-04-10 20:57:50,503 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:57:50,503 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:57:50, temperature:25.0, humidity: 40.0]
+2023-04-10 20:57:50,517 - PushCallback deliveryComplete: true
+2023-04-10 20:57:50,746 - lora GateWay send request frame to LoRa end-device,over
+2023-04-10 20:57:50,746 - lora GateWay send request frame to LoRa end-device,start
+2023-04-10 20:57:59,954 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:57:59,975 - Get the data of the zigbee end-device and start parsing
+2023-04-10 20:57:59,975 - zigbee_toString: [sensor: 1, date:2023-04-10 20:57:59, temperature:26.0, humidity: 40.0]
+2023-04-10 20:57:59,975 - Message sent successfully! The message content is锛歿}
+2023-04-10 20:57:59,976 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 20:57:59, temperature:26.0, humidity: 40.0]
+2023-04-10 20:57:59,993 - PushCallback deliveryComplete: true
+2023-04-10 20:58:00,747 - lora GateWay send request frame to LoRa end-device,over
+2023-04-10 20:58:00,747 - lora GateWay send request frame to LoRa end-device,start
+2023-04-10 21:03:37,998 - SerialPort COM8 is opening
+
+2023-04-10 21:03:39,925 - Get the data of the zigbee end-device and start parsing
+2023-04-10 21:03:39,963 - Get the data of the zigbee end-device and start parsing
+2023-04-10 21:03:39,964 - zigbee_toString: [sensor: 1, date:2023-04-10 21:03:39, temperature:0.0, humidity: 0.0]
+2023-04-10 21:03:39,969 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@5d366c3e
+2023-04-10 21:03:40,102 - MqttConnectionPool Thread:13鑾峰彇杩炴帴:1鏉�
+2023-04-10 21:03:40,162 - Message sent successfully! The message content is锛歿}
+2023-04-10 21:03:40,162 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 21:03:39, temperature:0.0, humidity: 0.0]
+2023-04-10 21:03:40,179 - PushCallback deliveryComplete: true
+2023-04-10 21:03:54,072 - SerialPort COM8 is opening
+
+2023-04-10 21:03:56,410 - Get the data of the zigbee end-device and start parsing
+2023-04-10 21:03:56,414 - zigbee_toString: [sensor: 1, date:2023-04-10 21:03:56, temperature:26.0, humidity: 40.0]
+2023-04-10 21:03:56,420 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@1531a39d
+2023-04-10 21:05:36,436 - Get the data of the zigbee end-device and start parsing
+2023-04-10 21:05:36,445 - zigbee_toString: [sensor: 1, date:2023-04-10 21:05:36, temperature:26.0, humidity: 40.0]
+2023-04-10 21:05:36,445 - zigbee_toString: [sensor: 1, date:2023-04-10 21:05:36, temperature:26.0, humidity: 40.0]
+2023-04-10 21:05:36,446 - zigbee_toString: [sensor: 1, date:2023-04-10 21:05:36, temperature:26.0, humidity: 40.0]
+2023-04-10 21:05:36,446 - zigbee_toString: [sensor: 1, date:2023-04-10 21:05:36, temperature:26.0, humidity: 40.0]
+2023-04-10 21:05:36,446 - zigbee_toString: [sensor: 1, date:2023-04-10 21:05:36, temperature:26.0, humidity: 39.0]
+2023-04-10 21:05:36,446 - zigbee_toString: [sensor: 1, date:2023-04-10 21:05:36, temperature:26.0, humidity: 41.0]
+2023-04-10 21:05:36,446 - zigbee_toString: [sensor: 1, date:2023-04-10 21:05:36, temperature:26.0, humidity: 40.0]
+2023-04-10 21:05:36,447 - zigbee_toString: [sensor: 1, date:2023-04-10 21:05:36, temperature:26.0, humidity: 40.0]
+2023-04-10 21:05:36,447 - zigbee_toString: [sensor: 1, date:2023-04-10 21:05:36, temperature:26.0, humidity: 40.0]
+2023-04-10 21:05:36,447 - zigbee_toString: [sensor: 1, date:2023-04-10 21:05:36, temperature:26.0, humidity: 40.0]
+2023-04-10 21:05:36,448 - zigbee_toString: [sensor: 1, date:2023-04-10 21:05:36, temperature:26.0, humidity: 40.0]
+2023-04-10 21:05:36,450 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@787e38a4
+2023-04-10 21:05:36,451 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@673b7cae
+2023-04-10 21:05:36,452 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@6c872b96
+2023-04-10 21:05:36,452 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@56c904d1
+2023-04-10 21:05:36,452 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@63de80d1
+2023-04-10 21:05:36,452 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@4cca44c0
+2023-04-10 21:05:36,452 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@2ad4d621
+2023-04-10 21:05:36,452 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@188ac135
+2023-04-10 21:05:36,452 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@11177fd2
+2023-04-10 21:05:37,673 - SerialPort COM8 is opening
+
+2023-04-10 21:05:43,011 - Get the data of the zigbee end-device and start parsing
+2023-04-10 21:05:43,050 - Get the data of the zigbee end-device and start parsing
+2023-04-10 21:05:43,051 - zigbee_toString: [sensor: 1, date:2023-04-10 21:05:43, temperature:26.0, humidity: 40.0]
+2023-04-10 21:05:43,054 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@5d366c3e
+2023-04-10 21:05:43,193 - MqttConnectionPool Thread:13鑾峰彇杩炴帴:1鏉�
+2023-04-10 21:05:43,259 - Message sent successfully! The message content is锛歿}
+2023-04-10 21:05:43,259 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 21:05:43, temperature:26.0, humidity: 40.0]
+2023-04-10 21:05:43,275 - PushCallback deliveryComplete: true
+2023-04-10 21:07:34,694 - SerialPort COM8 is opening
+
+2023-04-10 21:07:36,633 - Get the data of the zigbee end-device and start parsing
+2023-04-10 21:07:36,670 - Get the data of the zigbee end-device and start parsing
+2023-04-10 21:07:36,671 - zigbee_toString: [sensor: 1, date:2023-04-10 21:07:36, temperature:26.0, humidity: 40.0]
+2023-04-10 21:07:36,676 - MqttClientFactory mqtt杩炴帴鐨勯厤缃俊鎭細cn.edu.nwpu.mqtt.pool.AutoMqttProperties@2a452cb
+2023-04-10 21:07:36,823 - MqttConnectionPool Thread:13鑾峰彇杩炴帴:1鏉�
+2023-04-10 21:07:36,890 - Message sent successfully! The message content is锛歿}
+2023-04-10 21:07:36,891 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 21:07:36, temperature:26.0, humidity: 40.0]
+2023-04-10 21:07:36,908 - PushCallback deliveryComplete: true
+2023-04-10 21:18:42,348 - SerialPort COM8 is opening
+
+2023-04-10 21:18:48,837 - Get the data of the zigbee end-device and start parsing
+2023-04-10 21:18:48,853 - Get the data of the zigbee end-device and start parsing
+2023-04-10 21:18:48,853 - zigbee_toString: [sensor: 1, date:2023-04-10 21:18:48, temperature:26.0, humidity: 40.0]
+2023-04-10 21:18:48,856 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@1999dbcd
+2023-04-10 21:18:48,985 - MqttConnectionPool Thread:19获取连接:1条
+2023-04-10 21:18:49,046 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 51, 45, 48, 52, 45, 49, 48, 32, 50, 49, 58, 49, 56, 58, 52, 56, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 52, 48, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 50, 54, 46, 48, 125]
+2023-04-10 21:18:49,046 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 21:18:48, temperature:26.0, humidity: 40.0]
+2023-04-10 21:18:49,060 - PushCallback deliveryComplete: true
+2023-04-10 21:18:52,741 - Get the data of the zigbee end-device and start parsing
+2023-04-10 21:18:52,763 - Get the data of the zigbee end-device and start parsing
+2023-04-10 21:18:52,763 - zigbee_toString: [sensor: 1, date:2023-04-10 21:18:52, temperature:26.0, humidity: 40.0]
+2023-04-10 21:18:52,767 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@2a452cb
+2023-04-10 21:18:52,808 - MqttConnectionPool Thread:13获取连接:1条
+2023-04-10 21:18:52,808 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 51, 45, 48, 52, 45, 49, 48, 32, 50, 49, 58, 49, 56, 58, 53, 50, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 52, 48, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 50, 54, 46, 48, 125]
+2023-04-10 21:18:52,809 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 21:18:52, temperature:26.0, humidity: 40.0]
+2023-04-10 21:18:52,825 - PushCallback deliveryComplete: true
+2023-04-10 21:19:11,273 - Get the data of the zigbee end-device and start parsing
+2023-04-10 21:19:11,290 - Get the data of the zigbee end-device and start parsing
+2023-04-10 21:19:11,291 - zigbee_toString: [sensor: 1, date:2023-04-10 21:19:11, temperature:26.0, humidity: 40.0]
+2023-04-10 21:19:11,293 - MqttClientFactory mqtt连接的配置信息：cn.edu.nwpu.mqtt.pool.AutoMqttProperties@14bd0250
+2023-04-10 21:19:11,334 - MqttConnectionPool Thread:18获取连接:1条
+2023-04-10 21:19:11,335 - Message sent successfully! The message content is：[123, 34, 115, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 51, 45, 48, 52, 45, 49, 48, 32, 50, 49, 58, 49, 57, 58, 49, 49, 34, 44, 34, 115, 72, 117, 109, 105, 100, 105, 116, 121, 34, 58, 52, 48, 46, 48, 44, 34, 115, 73, 100, 34, 58, 49, 44, 34, 115, 84, 101, 109, 112, 101, 114, 97, 116, 117, 114, 101, 34, 58, 50, 54, 46, 48, 125]
+2023-04-10 21:19:11,335 - MQTTEventHandler MQTT:[sensor: 1, date:2023-04-10 21:19:11, temperature:26.0, humidity: 40.0]
+2023-04-10 21:19:11,354 - PushCallback deliveryComplete: true
+2023-04-10 21:21:38,709 - commPort��ͨ�Ŷ˿� (COM1),SystemPortName:COM1
+2023-04-10 21:21:38,912 - commPort��ELTIMA_Virtual_Serial_Port_00,SystemPortName:COM2
+2023-04-10 21:21:39,113 - commPort��ELTIMA_Virtual_Serial_Port_01,SystemPortName:COM3
+2023-04-10 21:21:39,324 - commPort��ELTIMA_Virtual_Serial_Port_02,SystemPortName:COM4
+2023-04-10 21:21:39,525 - commPort��ELTIMA_Virtual_Serial_Port_03,SystemPortName:COM5
+2023-04-10 21:21:39,725 - commPort��USB Serial,SystemPortName:COM8

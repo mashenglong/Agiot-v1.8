@@ -1,0 +1,11 @@
+2022-10-17 20:56:02,873 - commPort：ELTIMA_Virtual_Serial_Port_00,SystemPortName:COM1
+2022-10-17 20:56:03,077 - commPort：ELTIMA_Virtual_Serial_Port_01,SystemPortName:COM2
+2022-10-17 20:56:03,277 - commPort：ELTIMA_Virtual_Serial_Port_02,SystemPortName:COM3
+2022-10-17 20:56:03,478 - commPort：ELTIMA_Virtual_Serial_Port_03,SystemPortName:COM4
+2022-10-17 20:56:08,939 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-17 20:56:14,140 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-17 20:56:19,342 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-17 20:56:24,543 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-17 20:56:29,745 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-17 20:56:34,946 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
+2022-10-17 20:56:40,148 - ByteUtil.hexStr2Byte(msg lora):[-8, 0, 0, 0, 8, 0, 112, 55, 2, 0, -110, 2, 1, 0, 53, -34, -24]
